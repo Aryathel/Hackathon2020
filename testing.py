@@ -1,3 +1,4 @@
+# Author: Houghton Mayfield                                                             (moral support: Cam ｡◕‿◕｡)
 import requests
 
 headers = {
