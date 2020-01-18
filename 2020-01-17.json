@@ -2,31 +2,31 @@
   {
     "flightNumber": "9179",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 13m",
-      "hours": 2,
-      "minutes": 13
+      "locale": "1h 54m",
+      "hours": 1,
+      "minutes": 54
     },
-    "departureTime": "2020-01-17T02:54:00.000-06:00",
-    "arrivalTime": "2020-01-17T05:07:00.000-06:00",
+    "departureTime": "2020-01-17T02:54:00.000+01:00",
+    "arrivalTime": "2020-01-17T04:48:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -40,31 +40,31 @@
   {
     "flightNumber": "5919",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 1m",
-      "hours": 2,
-      "minutes": 1
+      "locale": "1h 43m",
+      "hours": 1,
+      "minutes": 43
     },
-    "departureTime": "2020-01-17T04:50:00.000-06:00",
-    "arrivalTime": "2020-01-17T06:51:00.000-06:00",
+    "departureTime": "2020-01-17T04:50:00.000+01:00",
+    "arrivalTime": "2020-01-17T06:33:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -78,31 +78,31 @@
   {
     "flightNumber": "8680",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 7m",
-      "hours": 2,
-      "minutes": 7
+      "locale": "1h 48m",
+      "hours": 1,
+      "minutes": 48
     },
-    "departureTime": "2020-01-17T06:49:00.000-06:00",
-    "arrivalTime": "2020-01-17T08:56:00.000-06:00",
+    "departureTime": "2020-01-17T06:49:00.000+01:00",
+    "arrivalTime": "2020-01-17T08:37:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -116,31 +116,31 @@
   {
     "flightNumber": "2990",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 2m",
-      "hours": 2,
-      "minutes": 2
+      "locale": "1h 45m",
+      "hours": 1,
+      "minutes": 45
     },
-    "departureTime": "2020-01-17T08:41:00.000-06:00",
-    "arrivalTime": "2020-01-17T10:43:00.000-06:00",
+    "departureTime": "2020-01-17T08:41:00.000+01:00",
+    "arrivalTime": "2020-01-17T10:26:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -154,31 +154,31 @@
   {
     "flightNumber": "0141",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 5m",
-      "hours": 2,
-      "minutes": 5
+      "locale": "1h 47m",
+      "hours": 1,
+      "minutes": 47
     },
-    "departureTime": "2020-01-17T10:32:00.000-06:00",
-    "arrivalTime": "2020-01-17T12:37:00.000-06:00",
+    "departureTime": "2020-01-17T10:32:00.000+01:00",
+    "arrivalTime": "2020-01-17T12:19:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -192,31 +192,31 @@
   {
     "flightNumber": "6290",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 11m",
-      "hours": 2,
-      "minutes": 11
+      "locale": "1h 52m",
+      "hours": 1,
+      "minutes": 52
     },
-    "departureTime": "2020-01-17T12:34:00.000-06:00",
-    "arrivalTime": "2020-01-17T14:45:00.000-06:00",
+    "departureTime": "2020-01-17T12:34:00.000+01:00",
+    "arrivalTime": "2020-01-17T14:26:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -230,31 +230,31 @@
   {
     "flightNumber": "6279",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 18m",
-      "hours": 2,
-      "minutes": 18
+      "locale": "1h 58m",
+      "hours": 1,
+      "minutes": 58
     },
-    "departureTime": "2020-01-17T14:25:00.000-06:00",
-    "arrivalTime": "2020-01-17T16:43:00.000-06:00",
+    "departureTime": "2020-01-17T14:25:00.000+01:00",
+    "arrivalTime": "2020-01-17T16:23:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -268,31 +268,31 @@
   {
     "flightNumber": "3510",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 0m",
-      "hours": 2,
-      "minutes": 0
+      "locale": "1h 42m",
+      "hours": 1,
+      "minutes": 42
     },
-    "departureTime": "2020-01-17T16:23:00.000-06:00",
-    "arrivalTime": "2020-01-17T18:23:00.000-06:00",
+    "departureTime": "2020-01-17T16:23:00.000+01:00",
+    "arrivalTime": "2020-01-17T18:05:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -306,31 +306,31 @@
   {
     "flightNumber": "1134",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 11m",
-      "hours": 2,
-      "minutes": 11
+      "locale": "1h 52m",
+      "hours": 1,
+      "minutes": 52
     },
-    "departureTime": "2020-01-17T18:26:00.000-06:00",
-    "arrivalTime": "2020-01-17T20:37:00.000-06:00",
+    "departureTime": "2020-01-17T18:26:00.000+01:00",
+    "arrivalTime": "2020-01-17T20:18:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -344,31 +344,31 @@
   {
     "flightNumber": "8039",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 10m",
-      "hours": 2,
-      "minutes": 10
+      "locale": "1h 51m",
+      "hours": 1,
+      "minutes": 51
     },
-    "departureTime": "2020-01-17T20:27:00.000-06:00",
-    "arrivalTime": "2020-01-17T22:37:00.000-06:00",
+    "departureTime": "2020-01-17T20:27:00.000+01:00",
+    "arrivalTime": "2020-01-17T22:18:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -382,31 +382,31 @@
   {
     "flightNumber": "3055",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 4m",
-      "hours": 2,
-      "minutes": 4
+      "locale": "1h 46m",
+      "hours": 1,
+      "minutes": 46
     },
-    "departureTime": "2020-01-17T22:47:00.000-06:00",
-    "arrivalTime": "2020-01-18T00:51:00.000-06:00",
+    "departureTime": "2020-01-17T22:47:00.000+01:00",
+    "arrivalTime": "2020-01-18T00:33:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -420,31 +420,31 @@
   {
     "flightNumber": "2154",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 2m",
-      "hours": 2,
-      "minutes": 2
+      "locale": "1h 44m",
+      "hours": 1,
+      "minutes": 44
     },
-    "departureTime": "2020-01-18T00:48:00.000-06:00",
-    "arrivalTime": "2020-01-18T02:50:00.000-06:00",
+    "departureTime": "2020-01-18T00:48:00.000+01:00",
+    "arrivalTime": "2020-01-18T02:32:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -458,31 +458,31 @@
   {
     "flightNumber": "5996",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 19m",
-      "hours": 3,
-      "minutes": 19
+      "locale": "1h 2m",
+      "hours": 1,
+      "minutes": 2
     },
-    "departureTime": "2020-01-17T02:34:00.000-06:00",
-    "arrivalTime": "2020-01-17T03:53:00.000-08:00",
+    "departureTime": "2020-01-17T02:34:00.000+01:00",
+    "arrivalTime": "2020-01-17T03:36:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -496,31 +496,31 @@
   {
     "flightNumber": "0197",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 15m",
-      "hours": 3,
-      "minutes": 15
+      "locale": "1h 1m",
+      "hours": 1,
+      "minutes": 1
     },
-    "departureTime": "2020-01-17T03:46:00.000-06:00",
-    "arrivalTime": "2020-01-17T05:01:00.000-08:00",
+    "departureTime": "2020-01-17T03:46:00.000+01:00",
+    "arrivalTime": "2020-01-17T04:47:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -534,31 +534,31 @@
   {
     "flightNumber": "1515",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 17m",
-      "hours": 3,
-      "minutes": 17
+      "locale": "1h 1m",
+      "hours": 1,
+      "minutes": 1
     },
-    "departureTime": "2020-01-17T05:28:00.000-06:00",
-    "arrivalTime": "2020-01-17T06:45:00.000-08:00",
+    "departureTime": "2020-01-17T05:28:00.000+01:00",
+    "arrivalTime": "2020-01-17T06:29:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -572,31 +572,31 @@
   {
     "flightNumber": "6972",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 8m",
-      "hours": 3,
-      "minutes": 8
+      "locale": "0h 59m",
+      "hours": 0,
+      "minutes": 59
     },
-    "departureTime": "2020-01-17T06:42:00.000-06:00",
-    "arrivalTime": "2020-01-17T07:50:00.000-08:00",
+    "departureTime": "2020-01-17T06:42:00.000+01:00",
+    "arrivalTime": "2020-01-17T07:41:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -610,31 +610,31 @@
   {
     "flightNumber": "5896",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 31m",
-      "hours": 3,
-      "minutes": 31
+      "locale": "1h 6m",
+      "hours": 1,
+      "minutes": 6
     },
-    "departureTime": "2020-01-17T08:05:00.000-06:00",
-    "arrivalTime": "2020-01-17T09:36:00.000-08:00",
+    "departureTime": "2020-01-17T08:05:00.000+01:00",
+    "arrivalTime": "2020-01-17T09:11:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -648,31 +648,31 @@
   {
     "flightNumber": "2825",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 21m",
-      "hours": 3,
-      "minutes": 21
+      "locale": "1h 3m",
+      "hours": 1,
+      "minutes": 3
     },
-    "departureTime": "2020-01-17T09:16:00.000-06:00",
-    "arrivalTime": "2020-01-17T10:37:00.000-08:00",
+    "departureTime": "2020-01-17T09:16:00.000+01:00",
+    "arrivalTime": "2020-01-17T10:19:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -686,31 +686,31 @@
   {
     "flightNumber": "5371",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 10m",
-      "hours": 3,
-      "minutes": 10
+      "locale": "0h 59m",
+      "hours": 0,
+      "minutes": 59
     },
-    "departureTime": "2020-01-17T10:45:00.000-06:00",
-    "arrivalTime": "2020-01-17T11:55:00.000-08:00",
+    "departureTime": "2020-01-17T10:45:00.000+01:00",
+    "arrivalTime": "2020-01-17T11:44:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -724,31 +724,31 @@
   {
     "flightNumber": "3871",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 13m",
-      "hours": 3,
-      "minutes": 13
+      "locale": "1h 0m",
+      "hours": 1,
+      "minutes": 0
     },
-    "departureTime": "2020-01-17T12:05:00.000-06:00",
-    "arrivalTime": "2020-01-17T13:18:00.000-08:00",
+    "departureTime": "2020-01-17T12:05:00.000+01:00",
+    "arrivalTime": "2020-01-17T13:05:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -762,31 +762,31 @@
   {
     "flightNumber": "8334",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 23m",
-      "hours": 3,
-      "minutes": 23
+      "locale": "1h 3m",
+      "hours": 1,
+      "minutes": 3
     },
-    "departureTime": "2020-01-17T13:52:00.000-06:00",
-    "arrivalTime": "2020-01-17T15:15:00.000-08:00",
+    "departureTime": "2020-01-17T13:52:00.000+01:00",
+    "arrivalTime": "2020-01-17T14:55:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -800,31 +800,31 @@
   {
     "flightNumber": "2280",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 14m",
-      "hours": 3,
-      "minutes": 14
+      "locale": "1h 0m",
+      "hours": 1,
+      "minutes": 0
     },
-    "departureTime": "2020-01-17T15:18:00.000-06:00",
-    "arrivalTime": "2020-01-17T16:32:00.000-08:00",
+    "departureTime": "2020-01-17T15:18:00.000+01:00",
+    "arrivalTime": "2020-01-17T16:18:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -838,31 +838,31 @@
   {
     "flightNumber": "9190",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 14m",
-      "hours": 3,
-      "minutes": 14
+      "locale": "1h 0m",
+      "hours": 1,
+      "minutes": 0
     },
-    "departureTime": "2020-01-17T16:43:00.000-06:00",
-    "arrivalTime": "2020-01-17T17:57:00.000-08:00",
+    "departureTime": "2020-01-17T16:43:00.000+01:00",
+    "arrivalTime": "2020-01-17T17:43:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -876,31 +876,31 @@
   {
     "flightNumber": "4732",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 28m",
-      "hours": 3,
-      "minutes": 28
+      "locale": "1h 5m",
+      "hours": 1,
+      "minutes": 5
     },
-    "departureTime": "2020-01-17T17:58:00.000-06:00",
-    "arrivalTime": "2020-01-17T19:26:00.000-08:00",
+    "departureTime": "2020-01-17T17:58:00.000+01:00",
+    "arrivalTime": "2020-01-17T19:03:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -914,31 +914,31 @@
   {
     "flightNumber": "7236",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 17m",
-      "hours": 3,
-      "minutes": 17
+      "locale": "1h 1m",
+      "hours": 1,
+      "minutes": 1
     },
-    "departureTime": "2020-01-17T19:19:00.000-06:00",
-    "arrivalTime": "2020-01-17T20:36:00.000-08:00",
+    "departureTime": "2020-01-17T19:19:00.000+01:00",
+    "arrivalTime": "2020-01-17T20:20:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -952,31 +952,31 @@
   {
     "flightNumber": "2927",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 7m",
-      "hours": 3,
-      "minutes": 7
+      "locale": "0h 58m",
+      "hours": 0,
+      "minutes": 58
     },
-    "departureTime": "2020-01-17T20:55:00.000-06:00",
-    "arrivalTime": "2020-01-17T22:02:00.000-08:00",
+    "departureTime": "2020-01-17T20:55:00.000+01:00",
+    "arrivalTime": "2020-01-17T21:53:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -990,31 +990,31 @@
   {
     "flightNumber": "1186",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 29m",
-      "hours": 3,
-      "minutes": 29
+      "locale": "1h 5m",
+      "hours": 1,
+      "minutes": 5
     },
-    "departureTime": "2020-01-17T22:23:00.000-06:00",
-    "arrivalTime": "2020-01-17T23:52:00.000-08:00",
+    "departureTime": "2020-01-17T22:23:00.000+01:00",
+    "arrivalTime": "2020-01-17T23:28:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -1028,31 +1028,31 @@
   {
     "flightNumber": "2568",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 21m",
-      "hours": 3,
-      "minutes": 21
+      "locale": "1h 3m",
+      "hours": 1,
+      "minutes": 3
     },
-    "departureTime": "2020-01-17T23:53:00.000-06:00",
-    "arrivalTime": "2020-01-18T01:14:00.000-08:00",
+    "departureTime": "2020-01-17T23:53:00.000+01:00",
+    "arrivalTime": "2020-01-18T00:56:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -1066,31 +1066,31 @@
   {
     "flightNumber": "8871",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 55m",
-      "hours": 3,
-      "minutes": 55
+      "locale": "0h 47m",
+      "hours": 0,
+      "minutes": 47
     },
-    "departureTime": "2020-01-17T03:26:00.000-06:00",
-    "arrivalTime": "2020-01-17T08:21:00.000-05:00",
+    "departureTime": "2020-01-17T03:26:00.000+01:00",
+    "arrivalTime": "2020-01-17T04:13:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -1104,31 +1104,31 @@
   {
     "flightNumber": "4995",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 36m",
-      "hours": 3,
-      "minutes": 36
+      "locale": "0h 43m",
+      "hours": 0,
+      "minutes": 43
     },
-    "departureTime": "2020-01-17T05:54:00.000-06:00",
-    "arrivalTime": "2020-01-17T10:30:00.000-05:00",
+    "departureTime": "2020-01-17T05:54:00.000+01:00",
+    "arrivalTime": "2020-01-17T06:37:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -1142,31 +1142,31 @@
   {
     "flightNumber": "5804",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 36m",
-      "hours": 3,
-      "minutes": 36
+      "locale": "0h 43m",
+      "hours": 0,
+      "minutes": 43
     },
-    "departureTime": "2020-01-17T08:01:00.000-06:00",
-    "arrivalTime": "2020-01-17T12:37:00.000-05:00",
+    "departureTime": "2020-01-17T08:01:00.000+01:00",
+    "arrivalTime": "2020-01-17T08:44:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -1180,31 +1180,31 @@
   {
     "flightNumber": "2733",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 36m",
-      "hours": 3,
-      "minutes": 36
+      "locale": "0h 43m",
+      "hours": 0,
+      "minutes": 43
     },
-    "departureTime": "2020-01-17T09:57:00.000-06:00",
-    "arrivalTime": "2020-01-17T14:33:00.000-05:00",
+    "departureTime": "2020-01-17T09:57:00.000+01:00",
+    "arrivalTime": "2020-01-17T10:40:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -1218,31 +1218,31 @@
   {
     "flightNumber": "7935",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 36m",
-      "hours": 3,
-      "minutes": 36
+      "locale": "0h 43m",
+      "hours": 0,
+      "minutes": 43
     },
-    "departureTime": "2020-01-17T12:05:00.000-06:00",
-    "arrivalTime": "2020-01-17T16:41:00.000-05:00",
+    "departureTime": "2020-01-17T12:05:00.000+01:00",
+    "arrivalTime": "2020-01-17T12:48:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -1256,31 +1256,31 @@
   {
     "flightNumber": "8883",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 45m",
-      "hours": 3,
+      "locale": "0h 45m",
+      "hours": 0,
       "minutes": 45
     },
-    "departureTime": "2020-01-17T14:01:00.000-06:00",
-    "arrivalTime": "2020-01-17T18:46:00.000-05:00",
+    "departureTime": "2020-01-17T14:01:00.000+01:00",
+    "arrivalTime": "2020-01-17T14:46:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -1294,31 +1294,31 @@
   {
     "flightNumber": "0482",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 47m",
-      "hours": 3,
-      "minutes": 47
+      "locale": "0h 45m",
+      "hours": 0,
+      "minutes": 45
     },
-    "departureTime": "2020-01-17T16:14:00.000-06:00",
-    "arrivalTime": "2020-01-17T21:01:00.000-05:00",
+    "departureTime": "2020-01-17T16:14:00.000+01:00",
+    "arrivalTime": "2020-01-17T16:59:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -1332,31 +1332,31 @@
   {
     "flightNumber": "4719",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 28m",
-      "hours": 3,
-      "minutes": 28
+      "locale": "0h 41m",
+      "hours": 0,
+      "minutes": 41
     },
-    "departureTime": "2020-01-17T18:24:00.000-06:00",
-    "arrivalTime": "2020-01-17T22:52:00.000-05:00",
+    "departureTime": "2020-01-17T18:24:00.000+01:00",
+    "arrivalTime": "2020-01-17T19:05:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -1370,31 +1370,31 @@
   {
     "flightNumber": "8260",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 37m",
-      "hours": 3,
-      "minutes": 37
+      "locale": "0h 43m",
+      "hours": 0,
+      "minutes": 43
     },
-    "departureTime": "2020-01-17T20:45:00.000-06:00",
-    "arrivalTime": "2020-01-18T01:22:00.000-05:00",
+    "departureTime": "2020-01-17T20:45:00.000+01:00",
+    "arrivalTime": "2020-01-17T21:28:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -1408,31 +1408,31 @@
   {
     "flightNumber": "4772",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 29m",
-      "hours": 3,
-      "minutes": 29
+      "locale": "0h 42m",
+      "hours": 0,
+      "minutes": 42
     },
-    "departureTime": "2020-01-17T22:42:00.000-06:00",
-    "arrivalTime": "2020-01-18T03:11:00.000-05:00",
+    "departureTime": "2020-01-17T22:42:00.000+01:00",
+    "arrivalTime": "2020-01-17T23:24:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -1446,31 +1446,31 @@
   {
     "flightNumber": "1285",
     "origin": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 47m",
-      "hours": 3,
-      "minutes": 47
+      "locale": "0h 45m",
+      "hours": 0,
+      "minutes": 45
     },
-    "departureTime": "2020-01-18T00:57:00.000-06:00",
-    "arrivalTime": "2020-01-18T05:44:00.000-05:00",
+    "departureTime": "2020-01-18T00:57:00.000+01:00",
+    "arrivalTime": "2020-01-18T01:42:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -1484,31 +1484,31 @@
   {
     "flightNumber": "1923",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 51m",
+      "locale": "1h 30m",
       "hours": 1,
-      "minutes": 51
+      "minutes": 30
     },
-    "departureTime": "2020-01-17T02:59:32.307-05:00",
-    "arrivalTime": "2020-01-17T03:50:32.307-06:00",
+    "departureTime": "2020-01-17T02:59:32.307+01:00",
+    "arrivalTime": "2020-01-17T04:29:32.307+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -1522,31 +1522,31 @@
   {
     "flightNumber": "6588",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "2h 6m",
-      "hours": 2,
-      "minutes": 6
+      "locale": "1h 41m",
+      "hours": 1,
+      "minutes": 41
     },
-    "departureTime": "2020-01-17T04:24:04.614-05:00",
-    "arrivalTime": "2020-01-17T05:30:04.614-06:00",
+    "departureTime": "2020-01-17T04:24:04.614+01:00",
+    "arrivalTime": "2020-01-17T06:05:04.614+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -1560,31 +1560,31 @@
   {
     "flightNumber": "8723",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "2h 0m",
-      "hours": 2,
-      "minutes": 0
+      "locale": "1h 37m",
+      "hours": 1,
+      "minutes": 37
     },
-    "departureTime": "2020-01-17T06:12:36.921-05:00",
-    "arrivalTime": "2020-01-17T07:12:36.921-06:00",
+    "departureTime": "2020-01-17T06:12:36.921+01:00",
+    "arrivalTime": "2020-01-17T07:49:36.921+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -1598,31 +1598,31 @@
   {
     "flightNumber": "8098",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "2h 0m",
-      "hours": 2,
-      "minutes": 0
+      "locale": "1h 37m",
+      "hours": 1,
+      "minutes": 37
     },
-    "departureTime": "2020-01-17T08:07:09.228-05:00",
-    "arrivalTime": "2020-01-17T09:07:09.228-06:00",
+    "departureTime": "2020-01-17T08:07:09.228+01:00",
+    "arrivalTime": "2020-01-17T09:44:09.228+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -1636,31 +1636,31 @@
   {
     "flightNumber": "1558",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 59m",
+      "locale": "1h 36m",
       "hours": 1,
-      "minutes": 59
+      "minutes": 36
     },
-    "departureTime": "2020-01-17T09:35:41.535-05:00",
-    "arrivalTime": "2020-01-17T10:34:41.535-06:00",
+    "departureTime": "2020-01-17T09:35:41.535+01:00",
+    "arrivalTime": "2020-01-17T11:11:41.535+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -1674,31 +1674,31 @@
   {
     "flightNumber": "3309",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 53m",
+      "locale": "1h 32m",
       "hours": 1,
-      "minutes": 53
+      "minutes": 32
     },
-    "departureTime": "2020-01-17T11:09:13.842-05:00",
-    "arrivalTime": "2020-01-17T12:02:13.842-06:00",
+    "departureTime": "2020-01-17T11:09:13.842+01:00",
+    "arrivalTime": "2020-01-17T12:41:13.842+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -1712,31 +1712,31 @@
   {
     "flightNumber": "2783",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 57m",
+      "locale": "1h 34m",
       "hours": 1,
-      "minutes": 57
+      "minutes": 34
     },
-    "departureTime": "2020-01-17T13:00:46.149-05:00",
-    "arrivalTime": "2020-01-17T13:57:46.149-06:00",
+    "departureTime": "2020-01-17T13:00:46.149+01:00",
+    "arrivalTime": "2020-01-17T14:34:46.149+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -1750,31 +1750,31 @@
   {
     "flightNumber": "1630",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 58m",
+      "locale": "1h 35m",
       "hours": 1,
-      "minutes": 58
+      "minutes": 35
     },
-    "departureTime": "2020-01-17T14:49:18.456-05:00",
-    "arrivalTime": "2020-01-17T15:47:18.456-06:00",
+    "departureTime": "2020-01-17T14:49:18.456+01:00",
+    "arrivalTime": "2020-01-17T16:24:18.456+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -1788,31 +1788,31 @@
   {
     "flightNumber": "4380",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 59m",
+      "locale": "1h 36m",
       "hours": 1,
-      "minutes": 59
+      "minutes": 36
     },
-    "departureTime": "2020-01-17T16:20:50.763-05:00",
-    "arrivalTime": "2020-01-17T17:19:50.763-06:00",
+    "departureTime": "2020-01-17T16:20:50.763+01:00",
+    "arrivalTime": "2020-01-17T17:56:50.763+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -1826,31 +1826,31 @@
   {
     "flightNumber": "6092",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "2h 6m",
-      "hours": 2,
-      "minutes": 6
+      "locale": "1h 42m",
+      "hours": 1,
+      "minutes": 42
     },
-    "departureTime": "2020-01-17T18:02:23.070-05:00",
-    "arrivalTime": "2020-01-17T19:08:23.070-06:00",
+    "departureTime": "2020-01-17T18:02:23.070+01:00",
+    "arrivalTime": "2020-01-17T19:44:23.070+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -1864,31 +1864,31 @@
   {
     "flightNumber": "3324",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 58m",
+      "locale": "1h 35m",
       "hours": 1,
-      "minutes": 58
+      "minutes": 35
     },
-    "departureTime": "2020-01-17T19:27:55.377-05:00",
-    "arrivalTime": "2020-01-17T20:25:55.377-06:00",
+    "departureTime": "2020-01-17T19:27:55.377+01:00",
+    "arrivalTime": "2020-01-17T21:02:55.377+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -1902,31 +1902,31 @@
   {
     "flightNumber": "7872",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "2h 4m",
-      "hours": 2,
-      "minutes": 4
+      "locale": "1h 40m",
+      "hours": 1,
+      "minutes": 40
     },
-    "departureTime": "2020-01-17T21:03:27.684-05:00",
-    "arrivalTime": "2020-01-17T22:07:27.684-06:00",
+    "departureTime": "2020-01-17T21:03:27.684+01:00",
+    "arrivalTime": "2020-01-17T22:43:27.684+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -1940,31 +1940,31 @@
   {
     "flightNumber": "6772",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 59m",
+      "locale": "1h 36m",
       "hours": 1,
-      "minutes": 59
+      "minutes": 36
     },
-    "departureTime": "2020-01-17T22:36:59.991-05:00",
-    "arrivalTime": "2020-01-17T23:35:59.991-06:00",
+    "departureTime": "2020-01-17T22:36:59.991+01:00",
+    "arrivalTime": "2020-01-18T00:12:59.991+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -1978,31 +1978,31 @@
   {
     "flightNumber": "4727",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 58m",
+      "locale": "1h 36m",
       "hours": 1,
-      "minutes": 58
+      "minutes": 36
     },
-    "departureTime": "2020-01-18T00:30:32.298-05:00",
-    "arrivalTime": "2020-01-18T01:28:32.298-06:00",
+    "departureTime": "2020-01-18T00:30:32.298+01:00",
+    "arrivalTime": "2020-01-18T02:06:32.298+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -2016,31 +2016,31 @@
   {
     "flightNumber": "7757",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 55m",
-      "hours": 6,
-      "minutes": 55
+      "locale": "1h 34m",
+      "hours": 1,
+      "minutes": 34
     },
-    "departureTime": "2020-01-17T04:55:00.000-05:00",
-    "arrivalTime": "2020-01-17T08:50:00.000-08:00",
+    "departureTime": "2020-01-17T04:55:00.000+01:00",
+    "arrivalTime": "2020-01-17T06:29:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -2054,31 +2054,31 @@
   {
     "flightNumber": "4843",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 44m",
-      "hours": 6,
-      "minutes": 44
+      "locale": "1h 32m",
+      "hours": 1,
+      "minutes": 32
     },
-    "departureTime": "2020-01-17T08:53:00.000-05:00",
-    "arrivalTime": "2020-01-17T12:37:00.000-08:00",
+    "departureTime": "2020-01-17T08:53:00.000+01:00",
+    "arrivalTime": "2020-01-17T10:25:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -2092,31 +2092,31 @@
   {
     "flightNumber": "4898",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 36m",
-      "hours": 6,
-      "minutes": 36
+      "locale": "1h 30m",
+      "hours": 1,
+      "minutes": 30
     },
-    "departureTime": "2020-01-17T12:52:00.000-05:00",
-    "arrivalTime": "2020-01-17T16:28:00.000-08:00",
+    "departureTime": "2020-01-17T12:52:00.000+01:00",
+    "arrivalTime": "2020-01-17T14:22:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -2130,31 +2130,31 @@
   {
     "flightNumber": "5319",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 39m",
-      "hours": 6,
-      "minutes": 39
+      "locale": "1h 30m",
+      "hours": 1,
+      "minutes": 30
     },
-    "departureTime": "2020-01-17T16:36:00.000-05:00",
-    "arrivalTime": "2020-01-17T20:15:00.000-08:00",
+    "departureTime": "2020-01-17T16:36:00.000+01:00",
+    "arrivalTime": "2020-01-17T18:06:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -2168,31 +2168,31 @@
   {
     "flightNumber": "5926",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 32m",
-      "hours": 6,
-      "minutes": 32
+      "locale": "1h 29m",
+      "hours": 1,
+      "minutes": 29
     },
-    "departureTime": "2020-01-17T19:59:00.000-05:00",
-    "arrivalTime": "2020-01-17T23:31:00.000-08:00",
+    "departureTime": "2020-01-17T19:59:00.000+01:00",
+    "arrivalTime": "2020-01-17T21:28:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -2206,31 +2206,31 @@
   {
     "flightNumber": "3990",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 24m",
-      "hours": 6,
-      "minutes": 24
+      "locale": "1h 27m",
+      "hours": 1,
+      "minutes": 27
     },
-    "departureTime": "2020-01-17T23:36:00.000-05:00",
-    "arrivalTime": "2020-01-18T03:00:00.000-08:00",
+    "departureTime": "2020-01-17T23:36:00.000+01:00",
+    "arrivalTime": "2020-01-18T01:03:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -2244,31 +2244,31 @@
   {
     "flightNumber": "7404",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 30m",
-      "hours": 6,
-      "minutes": 30
+      "locale": "1h 28m",
+      "hours": 1,
+      "minutes": 28
     },
-    "departureTime": "2020-01-18T03:01:00.000-05:00",
-    "arrivalTime": "2020-01-18T06:31:00.000-08:00",
+    "departureTime": "2020-01-18T03:01:00.000+01:00",
+    "arrivalTime": "2020-01-18T04:29:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -2282,31 +2282,31 @@
   {
     "flightNumber": "2052",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 42m",
-      "hours": 3,
-      "minutes": 42
+      "locale": "0h 44m",
+      "hours": 0,
+      "minutes": 44
     },
-    "departureTime": "2020-01-17T03:11:00.000-05:00",
-    "arrivalTime": "2020-01-17T05:53:00.000-06:00",
+    "departureTime": "2020-01-17T03:11:00.000+01:00",
+    "arrivalTime": "2020-01-17T03:55:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -2320,31 +2320,31 @@
   {
     "flightNumber": "1636",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 49m",
-      "hours": 3,
-      "minutes": 49
+      "locale": "0h 46m",
+      "hours": 0,
+      "minutes": 46
     },
-    "departureTime": "2020-01-17T05:16:00.000-05:00",
-    "arrivalTime": "2020-01-17T08:05:00.000-06:00",
+    "departureTime": "2020-01-17T05:16:00.000+01:00",
+    "arrivalTime": "2020-01-17T06:02:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -2358,31 +2358,31 @@
   {
     "flightNumber": "6512",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 48m",
-      "hours": 3,
-      "minutes": 48
+      "locale": "0h 45m",
+      "hours": 0,
+      "minutes": 45
     },
-    "departureTime": "2020-01-17T07:23:00.000-05:00",
-    "arrivalTime": "2020-01-17T10:11:00.000-06:00",
+    "departureTime": "2020-01-17T07:23:00.000+01:00",
+    "arrivalTime": "2020-01-17T08:08:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -2396,31 +2396,31 @@
   {
     "flightNumber": "9885",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 46m",
-      "hours": 3,
-      "minutes": 46
+      "locale": "0h 45m",
+      "hours": 0,
+      "minutes": 45
     },
-    "departureTime": "2020-01-17T09:25:00.000-05:00",
-    "arrivalTime": "2020-01-17T12:11:00.000-06:00",
+    "departureTime": "2020-01-17T09:25:00.000+01:00",
+    "arrivalTime": "2020-01-17T10:10:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -2434,31 +2434,31 @@
   {
     "flightNumber": "3040",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 56m",
-      "hours": 3,
-      "minutes": 56
+      "locale": "0h 47m",
+      "hours": 0,
+      "minutes": 47
     },
-    "departureTime": "2020-01-17T11:31:00.000-05:00",
-    "arrivalTime": "2020-01-17T14:27:00.000-06:00",
+    "departureTime": "2020-01-17T11:31:00.000+01:00",
+    "arrivalTime": "2020-01-17T12:18:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -2472,31 +2472,31 @@
   {
     "flightNumber": "7750",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 47m",
-      "hours": 3,
-      "minutes": 47
+      "locale": "0h 45m",
+      "hours": 0,
+      "minutes": 45
     },
-    "departureTime": "2020-01-17T13:50:00.000-05:00",
-    "arrivalTime": "2020-01-17T16:37:00.000-06:00",
+    "departureTime": "2020-01-17T13:50:00.000+01:00",
+    "arrivalTime": "2020-01-17T14:35:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -2510,31 +2510,31 @@
   {
     "flightNumber": "0404",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 48m",
-      "hours": 3,
-      "minutes": 48
+      "locale": "0h 45m",
+      "hours": 0,
+      "minutes": 45
     },
-    "departureTime": "2020-01-17T15:47:00.000-05:00",
-    "arrivalTime": "2020-01-17T18:35:00.000-06:00",
+    "departureTime": "2020-01-17T15:47:00.000+01:00",
+    "arrivalTime": "2020-01-17T16:32:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -2548,31 +2548,31 @@
   {
     "flightNumber": "4309",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 51m",
-      "hours": 3,
-      "minutes": 51
+      "locale": "0h 46m",
+      "hours": 0,
+      "minutes": 46
     },
-    "departureTime": "2020-01-17T17:37:00.000-05:00",
-    "arrivalTime": "2020-01-17T20:28:00.000-06:00",
+    "departureTime": "2020-01-17T17:37:00.000+01:00",
+    "arrivalTime": "2020-01-17T18:23:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -2586,31 +2586,31 @@
   {
     "flightNumber": "8940",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 58m",
-      "hours": 3,
-      "minutes": 58
+      "locale": "0h 47m",
+      "hours": 0,
+      "minutes": 47
     },
-    "departureTime": "2020-01-17T19:36:00.000-05:00",
-    "arrivalTime": "2020-01-17T22:34:00.000-06:00",
+    "departureTime": "2020-01-17T19:36:00.000+01:00",
+    "arrivalTime": "2020-01-17T20:23:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -2624,31 +2624,31 @@
   {
     "flightNumber": "2070",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 45m",
-      "hours": 3,
+      "locale": "0h 45m",
+      "hours": 0,
       "minutes": 45
     },
-    "departureTime": "2020-01-17T21:37:00.000-05:00",
-    "arrivalTime": "2020-01-18T00:22:00.000-06:00",
+    "departureTime": "2020-01-17T21:37:00.000+01:00",
+    "arrivalTime": "2020-01-17T22:22:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -2662,31 +2662,31 @@
   {
     "flightNumber": "9568",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 48m",
-      "hours": 3,
-      "minutes": 48
+      "locale": "0h 45m",
+      "hours": 0,
+      "minutes": 45
     },
-    "departureTime": "2020-01-17T23:43:00.000-05:00",
-    "arrivalTime": "2020-01-18T02:31:00.000-06:00",
+    "departureTime": "2020-01-17T23:43:00.000+01:00",
+    "arrivalTime": "2020-01-18T00:28:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -2700,31 +2700,31 @@
   {
     "flightNumber": "1390",
     "origin": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1390,
+    "distance": 279,
     "duration": {
-      "locale": "3h 39m",
-      "hours": 3,
-      "minutes": 39
+      "locale": "0h 44m",
+      "hours": 0,
+      "minutes": 44
     },
-    "departureTime": "2020-01-18T01:40:00.000-05:00",
-    "arrivalTime": "2020-01-18T04:19:00.000-06:00",
+    "departureTime": "2020-01-18T01:40:00.000+01:00",
+    "arrivalTime": "2020-01-18T02:24:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -2738,31 +2738,31 @@
   {
     "flightNumber": "5448",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 23m",
-      "hours": 4,
-      "minutes": 23
+      "locale": "1h 24m",
+      "hours": 1,
+      "minutes": 24
     },
-    "departureTime": "2020-01-17T02:21:17.142-08:00",
-    "arrivalTime": "2020-01-17T08:44:17.142-06:00",
+    "departureTime": "2020-01-17T02:21:17.142+01:00",
+    "arrivalTime": "2020-01-17T03:45:17.142+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -2776,31 +2776,31 @@
   {
     "flightNumber": "8683",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 38m",
-      "hours": 4,
-      "minutes": 38
+      "locale": "1h 28m",
+      "hours": 1,
+      "minutes": 28
     },
-    "departureTime": "2020-01-17T03:39:34.284-08:00",
-    "arrivalTime": "2020-01-17T10:17:34.284-06:00",
+    "departureTime": "2020-01-17T03:39:34.284+01:00",
+    "arrivalTime": "2020-01-17T05:07:34.284+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -2814,31 +2814,31 @@
   {
     "flightNumber": "3539",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 44m",
-      "hours": 4,
-      "minutes": 44
+      "locale": "1h 30m",
+      "hours": 1,
+      "minutes": 30
     },
-    "departureTime": "2020-01-17T04:58:51.426-08:00",
-    "arrivalTime": "2020-01-17T11:42:51.426-06:00",
+    "departureTime": "2020-01-17T04:58:51.426+01:00",
+    "arrivalTime": "2020-01-17T06:28:51.426+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -2852,31 +2852,31 @@
   {
     "flightNumber": "2085",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 21m",
-      "hours": 4,
-      "minutes": 21
+      "locale": "1h 23m",
+      "hours": 1,
+      "minutes": 23
     },
-    "departureTime": "2020-01-17T06:24:08.568-08:00",
-    "arrivalTime": "2020-01-17T12:45:08.568-06:00",
+    "departureTime": "2020-01-17T06:24:08.568+01:00",
+    "arrivalTime": "2020-01-17T07:47:08.568+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -2890,31 +2890,31 @@
   {
     "flightNumber": "9840",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 31m",
-      "hours": 4,
-      "minutes": 31
+      "locale": "1h 26m",
+      "hours": 1,
+      "minutes": 26
     },
-    "departureTime": "2020-01-17T07:48:25.710-08:00",
-    "arrivalTime": "2020-01-17T14:19:25.710-06:00",
+    "departureTime": "2020-01-17T07:48:25.710+01:00",
+    "arrivalTime": "2020-01-17T09:14:25.710+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -2928,31 +2928,31 @@
   {
     "flightNumber": "7354",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 23m",
-      "hours": 4,
-      "minutes": 23
+      "locale": "1h 24m",
+      "hours": 1,
+      "minutes": 24
     },
-    "departureTime": "2020-01-17T09:41:42.852-08:00",
-    "arrivalTime": "2020-01-17T16:04:42.852-06:00",
+    "departureTime": "2020-01-17T09:41:42.852+01:00",
+    "arrivalTime": "2020-01-17T11:05:42.852+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -2966,31 +2966,31 @@
   {
     "flightNumber": "6096",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 47m",
-      "hours": 4,
-      "minutes": 47
+      "locale": "1h 31m",
+      "hours": 1,
+      "minutes": 31
     },
-    "departureTime": "2020-01-17T11:26:59.994-08:00",
-    "arrivalTime": "2020-01-17T18:13:59.994-06:00",
+    "departureTime": "2020-01-17T11:26:59.994+01:00",
+    "arrivalTime": "2020-01-17T12:57:59.994+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -3004,31 +3004,31 @@
   {
     "flightNumber": "3450",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 23m",
-      "hours": 4,
-      "minutes": 23
+      "locale": "1h 24m",
+      "hours": 1,
+      "minutes": 24
     },
-    "departureTime": "2020-01-17T12:57:17.136-08:00",
-    "arrivalTime": "2020-01-17T19:20:17.136-06:00",
+    "departureTime": "2020-01-17T12:57:17.136+01:00",
+    "arrivalTime": "2020-01-17T14:21:17.136+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -3042,31 +3042,31 @@
   {
     "flightNumber": "0875",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "5h 1m",
-      "hours": 5,
-      "minutes": 1
+      "locale": "1h 36m",
+      "hours": 1,
+      "minutes": 36
     },
-    "departureTime": "2020-01-17T14:34:34.278-08:00",
-    "arrivalTime": "2020-01-17T21:35:34.278-06:00",
+    "departureTime": "2020-01-17T14:34:34.278+01:00",
+    "arrivalTime": "2020-01-17T16:10:34.278+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -3080,31 +3080,31 @@
   {
     "flightNumber": "6753",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 52m",
-      "hours": 4,
-      "minutes": 52
+      "locale": "1h 33m",
+      "hours": 1,
+      "minutes": 33
     },
-    "departureTime": "2020-01-17T16:12:51.420-08:00",
-    "arrivalTime": "2020-01-17T23:04:51.420-06:00",
+    "departureTime": "2020-01-17T16:12:51.420+01:00",
+    "arrivalTime": "2020-01-17T17:45:51.420+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -3118,31 +3118,31 @@
   {
     "flightNumber": "9566",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 44m",
-      "hours": 4,
-      "minutes": 44
+      "locale": "1h 31m",
+      "hours": 1,
+      "minutes": 31
     },
-    "departureTime": "2020-01-17T17:38:08.562-08:00",
-    "arrivalTime": "2020-01-18T00:22:08.562-06:00",
+    "departureTime": "2020-01-17T17:38:08.562+01:00",
+    "arrivalTime": "2020-01-17T19:09:08.562+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -3156,31 +3156,31 @@
   {
     "flightNumber": "2869",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 35m",
-      "hours": 4,
-      "minutes": 35
+      "locale": "1h 28m",
+      "hours": 1,
+      "minutes": 28
     },
-    "departureTime": "2020-01-17T19:07:25.704-08:00",
-    "arrivalTime": "2020-01-18T01:42:25.704-06:00",
+    "departureTime": "2020-01-17T19:07:25.704+01:00",
+    "arrivalTime": "2020-01-17T20:35:25.704+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -3194,31 +3194,31 @@
   {
     "flightNumber": "8076",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 32m",
-      "hours": 4,
-      "minutes": 32
+      "locale": "1h 26m",
+      "hours": 1,
+      "minutes": 26
     },
-    "departureTime": "2020-01-17T20:45:42.846-08:00",
-    "arrivalTime": "2020-01-18T03:17:42.846-06:00",
+    "departureTime": "2020-01-17T20:45:42.846+01:00",
+    "arrivalTime": "2020-01-17T22:11:42.846+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -3232,31 +3232,31 @@
   {
     "flightNumber": "1432",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 46m",
-      "hours": 4,
-      "minutes": 46
+      "locale": "1h 31m",
+      "hours": 1,
+      "minutes": 31
     },
-    "departureTime": "2020-01-17T22:15:59.988-08:00",
-    "arrivalTime": "2020-01-18T05:01:59.988-06:00",
+    "departureTime": "2020-01-17T22:15:59.988+01:00",
+    "arrivalTime": "2020-01-17T23:46:59.988+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -3270,31 +3270,31 @@
   {
     "flightNumber": "3750",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 43m",
-      "hours": 4,
-      "minutes": 43
+      "locale": "1h 30m",
+      "hours": 1,
+      "minutes": 30
     },
-    "departureTime": "2020-01-17T23:49:17.130-08:00",
-    "arrivalTime": "2020-01-18T06:32:17.130-06:00",
+    "departureTime": "2020-01-17T23:49:17.130+01:00",
+    "arrivalTime": "2020-01-18T01:19:17.130+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -3308,31 +3308,31 @@
   {
     "flightNumber": "4973",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 39m",
-      "hours": 6,
-      "minutes": 39
+      "locale": "1h 31m",
+      "hours": 1,
+      "minutes": 31
     },
-    "departureTime": "2020-01-17T02:45:00.000-08:00",
-    "arrivalTime": "2020-01-17T12:24:00.000-05:00",
+    "departureTime": "2020-01-17T02:45:00.000+01:00",
+    "arrivalTime": "2020-01-17T04:16:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -3346,31 +3346,31 @@
   {
     "flightNumber": "2653",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 27m",
-      "hours": 6,
-      "minutes": 27
+      "locale": "1h 28m",
+      "hours": 1,
+      "minutes": 28
     },
-    "departureTime": "2020-01-17T04:35:00.000-08:00",
-    "arrivalTime": "2020-01-17T14:02:00.000-05:00",
+    "departureTime": "2020-01-17T04:35:00.000+01:00",
+    "arrivalTime": "2020-01-17T06:03:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -3384,31 +3384,31 @@
   {
     "flightNumber": "7361",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 23m",
-      "hours": 6,
-      "minutes": 23
+      "locale": "1h 27m",
+      "hours": 1,
+      "minutes": 27
     },
-    "departureTime": "2020-01-17T06:25:00.000-08:00",
-    "arrivalTime": "2020-01-17T15:48:00.000-05:00",
+    "departureTime": "2020-01-17T06:25:00.000+01:00",
+    "arrivalTime": "2020-01-17T07:52:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -3422,31 +3422,31 @@
   {
     "flightNumber": "7867",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 30m",
-      "hours": 6,
-      "minutes": 30
+      "locale": "1h 28m",
+      "hours": 1,
+      "minutes": 28
     },
-    "departureTime": "2020-01-17T08:19:00.000-08:00",
-    "arrivalTime": "2020-01-17T17:49:00.000-05:00",
+    "departureTime": "2020-01-17T08:19:00.000+01:00",
+    "arrivalTime": "2020-01-17T09:47:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -3460,31 +3460,31 @@
   {
     "flightNumber": "0220",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 19m",
-      "hours": 6,
-      "minutes": 19
+      "locale": "1h 26m",
+      "hours": 1,
+      "minutes": 26
     },
-    "departureTime": "2020-01-17T10:00:00.000-08:00",
-    "arrivalTime": "2020-01-17T19:19:00.000-05:00",
+    "departureTime": "2020-01-17T10:00:00.000+01:00",
+    "arrivalTime": "2020-01-17T11:26:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -3498,31 +3498,31 @@
   {
     "flightNumber": "5814",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 23m",
-      "hours": 6,
-      "minutes": 23
+      "locale": "1h 27m",
+      "hours": 1,
+      "minutes": 27
     },
-    "departureTime": "2020-01-17T12:09:00.000-08:00",
-    "arrivalTime": "2020-01-17T21:32:00.000-05:00",
+    "departureTime": "2020-01-17T12:09:00.000+01:00",
+    "arrivalTime": "2020-01-17T13:36:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -3536,31 +3536,31 @@
   {
     "flightNumber": "3107",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 55m",
-      "hours": 6,
-      "minutes": 55
+      "locale": "1h 34m",
+      "hours": 1,
+      "minutes": 34
     },
-    "departureTime": "2020-01-17T13:52:00.000-08:00",
-    "arrivalTime": "2020-01-17T23:47:00.000-05:00",
+    "departureTime": "2020-01-17T13:52:00.000+01:00",
+    "arrivalTime": "2020-01-17T15:26:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -3574,31 +3574,31 @@
   {
     "flightNumber": "2766",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 47m",
-      "hours": 6,
-      "minutes": 47
+      "locale": "1h 32m",
+      "hours": 1,
+      "minutes": 32
     },
-    "departureTime": "2020-01-17T16:00:00.000-08:00",
-    "arrivalTime": "2020-01-18T01:47:00.000-05:00",
+    "departureTime": "2020-01-17T16:00:00.000+01:00",
+    "arrivalTime": "2020-01-17T17:32:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -3612,31 +3612,31 @@
   {
     "flightNumber": "1930",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 25m",
-      "hours": 6,
-      "minutes": 25
+      "locale": "1h 27m",
+      "hours": 1,
+      "minutes": 27
     },
-    "departureTime": "2020-01-17T18:19:00.000-08:00",
-    "arrivalTime": "2020-01-18T03:44:00.000-05:00",
+    "departureTime": "2020-01-17T18:19:00.000+01:00",
+    "arrivalTime": "2020-01-17T19:46:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -3650,31 +3650,31 @@
   {
     "flightNumber": "7501",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 20m",
-      "hours": 6,
-      "minutes": 20
+      "locale": "1h 26m",
+      "hours": 1,
+      "minutes": 26
     },
-    "departureTime": "2020-01-17T20:11:00.000-08:00",
-    "arrivalTime": "2020-01-18T05:31:00.000-05:00",
+    "departureTime": "2020-01-17T20:11:00.000+01:00",
+    "arrivalTime": "2020-01-17T21:37:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -3688,31 +3688,31 @@
   {
     "flightNumber": "8100",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 14m",
-      "hours": 6,
-      "minutes": 14
+      "locale": "1h 25m",
+      "hours": 1,
+      "minutes": 25
     },
-    "departureTime": "2020-01-17T22:18:00.000-08:00",
-    "arrivalTime": "2020-01-18T07:32:00.000-05:00",
+    "departureTime": "2020-01-17T22:18:00.000+01:00",
+    "arrivalTime": "2020-01-17T23:43:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -3726,31 +3726,31 @@
   {
     "flightNumber": "1479",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 2472,
+    "distance": 563,
     "duration": {
-      "locale": "6h 16m",
-      "hours": 6,
-      "minutes": 16
+      "locale": "1h 25m",
+      "hours": 1,
+      "minutes": 25
     },
-    "departureTime": "2020-01-18T00:30:00.000-08:00",
-    "arrivalTime": "2020-01-18T09:46:00.000-05:00",
+    "departureTime": "2020-01-18T00:30:00.000+01:00",
+    "arrivalTime": "2020-01-18T01:55:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -3764,31 +3764,31 @@
   {
     "flightNumber": "4918",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 22m",
-      "hours": 3,
-      "minutes": 22
+      "locale": "1h 3m",
+      "hours": 1,
+      "minutes": 3
     },
-    "departureTime": "2020-01-17T04:36:00.000-08:00",
-    "arrivalTime": "2020-01-17T09:58:00.000-06:00",
+    "departureTime": "2020-01-17T04:36:00.000+01:00",
+    "arrivalTime": "2020-01-17T05:39:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -3802,31 +3802,31 @@
   {
     "flightNumber": "7343",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 16m",
-      "hours": 3,
-      "minutes": 16
+      "locale": "1h 1m",
+      "hours": 1,
+      "minutes": 1
     },
-    "departureTime": "2020-01-17T08:23:00.000-08:00",
-    "arrivalTime": "2020-01-17T13:39:00.000-06:00",
+    "departureTime": "2020-01-17T08:23:00.000+01:00",
+    "arrivalTime": "2020-01-17T09:24:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -3840,31 +3840,31 @@
   {
     "flightNumber": "5478",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 17m",
-      "hours": 3,
-      "minutes": 17
+      "locale": "1h 1m",
+      "hours": 1,
+      "minutes": 1
     },
-    "departureTime": "2020-01-17T11:57:00.000-08:00",
-    "arrivalTime": "2020-01-17T17:14:00.000-06:00",
+    "departureTime": "2020-01-17T11:57:00.000+01:00",
+    "arrivalTime": "2020-01-17T12:58:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -3878,31 +3878,31 @@
   {
     "flightNumber": "1025",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 5m",
-      "hours": 3,
-      "minutes": 5
+      "locale": "0h 58m",
+      "hours": 0,
+      "minutes": 58
     },
-    "departureTime": "2020-01-17T15:51:00.000-08:00",
-    "arrivalTime": "2020-01-17T20:56:00.000-06:00",
+    "departureTime": "2020-01-17T15:51:00.000+01:00",
+    "arrivalTime": "2020-01-17T16:49:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -3916,31 +3916,31 @@
   {
     "flightNumber": "7076",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 12m",
-      "hours": 3,
-      "minutes": 12
+      "locale": "1h 0m",
+      "hours": 1,
+      "minutes": 0
     },
-    "departureTime": "2020-01-17T19:37:00.000-08:00",
-    "arrivalTime": "2020-01-18T00:49:00.000-06:00",
+    "departureTime": "2020-01-17T19:37:00.000+01:00",
+    "arrivalTime": "2020-01-17T20:37:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -3954,31 +3954,31 @@
   {
     "flightNumber": "2347",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 17m",
-      "hours": 3,
-      "minutes": 17
+      "locale": "1h 1m",
+      "hours": 1,
+      "minutes": 1
     },
-    "departureTime": "2020-01-17T23:20:00.000-08:00",
-    "arrivalTime": "2020-01-18T04:37:00.000-06:00",
+    "departureTime": "2020-01-17T23:20:00.000+01:00",
+    "arrivalTime": "2020-01-18T00:21:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -3992,31 +3992,31 @@
   {
     "flightNumber": "8822",
     "origin": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 1234,
+    "distance": 386,
     "duration": {
-      "locale": "3h 26m",
-      "hours": 3,
-      "minutes": 26
+      "locale": "1h 4m",
+      "hours": 1,
+      "minutes": 4
     },
-    "departureTime": "2020-01-18T02:53:00.000-08:00",
-    "arrivalTime": "2020-01-18T08:19:00.000-06:00",
+    "departureTime": "2020-01-18T02:53:00.000+01:00",
+    "arrivalTime": "2020-01-18T03:57:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -4030,31 +4030,31 @@
   {
     "flightNumber": "6512",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 36m",
-      "hours": 4,
-      "minutes": 36
+      "locale": "1h 28m",
+      "hours": 1,
+      "minutes": 28
     },
-    "departureTime": "2020-01-17T03:06:40.000-06:00",
-    "arrivalTime": "2020-01-17T05:42:40.000-08:00",
+    "departureTime": "2020-01-17T03:06:40.000+01:00",
+    "arrivalTime": "2020-01-17T04:34:40.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -4068,31 +4068,31 @@
   {
     "flightNumber": "6830",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 23m",
-      "hours": 4,
-      "minutes": 23
+      "locale": "1h 24m",
+      "hours": 1,
+      "minutes": 24
     },
-    "departureTime": "2020-01-17T05:37:20.000-06:00",
-    "arrivalTime": "2020-01-17T08:00:20.000-08:00",
+    "departureTime": "2020-01-17T05:37:20.000+01:00",
+    "arrivalTime": "2020-01-17T07:01:20.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -4106,31 +4106,31 @@
   {
     "flightNumber": "5562",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 55m",
-      "hours": 4,
-      "minutes": 55
+      "locale": "1h 34m",
+      "hours": 1,
+      "minutes": 34
     },
-    "departureTime": "2020-01-17T08:04:00.000-06:00",
-    "arrivalTime": "2020-01-17T10:59:00.000-08:00",
+    "departureTime": "2020-01-17T08:04:00.000+01:00",
+    "arrivalTime": "2020-01-17T09:38:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -4144,31 +4144,31 @@
   {
     "flightNumber": "1470",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 47m",
-      "hours": 4,
-      "minutes": 47
+      "locale": "1h 31m",
+      "hours": 1,
+      "minutes": 31
     },
-    "departureTime": "2020-01-17T10:25:40.000-06:00",
-    "arrivalTime": "2020-01-17T13:12:40.000-08:00",
+    "departureTime": "2020-01-17T10:25:40.000+01:00",
+    "arrivalTime": "2020-01-17T11:56:40.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -4182,31 +4182,31 @@
   {
     "flightNumber": "3238",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 43m",
-      "hours": 4,
-      "minutes": 43
+      "locale": "1h 30m",
+      "hours": 1,
+      "minutes": 30
     },
-    "departureTime": "2020-01-17T12:43:20.000-06:00",
-    "arrivalTime": "2020-01-17T15:26:20.000-08:00",
+    "departureTime": "2020-01-17T12:43:20.000+01:00",
+    "arrivalTime": "2020-01-17T14:13:20.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -4220,31 +4220,31 @@
   {
     "flightNumber": "1839",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 49m",
-      "hours": 4,
-      "minutes": 49
+      "locale": "1h 32m",
+      "hours": 1,
+      "minutes": 32
     },
-    "departureTime": "2020-01-17T15:21:00.000-06:00",
-    "arrivalTime": "2020-01-17T18:10:00.000-08:00",
+    "departureTime": "2020-01-17T15:21:00.000+01:00",
+    "arrivalTime": "2020-01-17T16:53:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -4258,31 +4258,31 @@
   {
     "flightNumber": "2362",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 42m",
-      "hours": 4,
-      "minutes": 42
+      "locale": "1h 30m",
+      "hours": 1,
+      "minutes": 30
     },
-    "departureTime": "2020-01-17T17:36:40.000-06:00",
-    "arrivalTime": "2020-01-17T20:18:40.000-08:00",
+    "departureTime": "2020-01-17T17:36:40.000+01:00",
+    "arrivalTime": "2020-01-17T19:06:40.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -4296,31 +4296,31 @@
   {
     "flightNumber": "9815",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 37m",
-      "hours": 4,
-      "minutes": 37
+      "locale": "1h 28m",
+      "hours": 1,
+      "minutes": 28
     },
-    "departureTime": "2020-01-17T19:52:20.000-06:00",
-    "arrivalTime": "2020-01-17T22:29:20.000-08:00",
+    "departureTime": "2020-01-17T19:52:20.000+01:00",
+    "arrivalTime": "2020-01-17T21:20:20.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -4334,31 +4334,31 @@
   {
     "flightNumber": "3466",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 30m",
-      "hours": 4,
-      "minutes": 30
+      "locale": "1h 26m",
+      "hours": 1,
+      "minutes": 26
     },
-    "departureTime": "2020-01-17T22:26:00.000-06:00",
-    "arrivalTime": "2020-01-18T00:56:00.000-08:00",
+    "departureTime": "2020-01-17T22:26:00.000+01:00",
+    "arrivalTime": "2020-01-17T23:52:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -4372,31 +4372,31 @@
   {
     "flightNumber": "3329",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "timezone": "America/Los_Angeles",
+      "code": "BIQ",
+      "city": "Biarritz",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 33.9416,
-        "longitude": 118.4085
+        "latitude": 43.4688,
+        "longitude": 1.528
       }
     },
-    "distance": 1743,
+    "distance": 557,
     "duration": {
-      "locale": "4h 47m",
-      "hours": 4,
-      "minutes": 47
+      "locale": "1h 31m",
+      "hours": 1,
+      "minutes": 31
     },
-    "departureTime": "2020-01-18T01:03:40.000-06:00",
-    "arrivalTime": "2020-01-18T03:50:40.000-08:00",
+    "departureTime": "2020-01-18T01:03:40.000+01:00",
+    "arrivalTime": "2020-01-18T02:34:40.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -4410,31 +4410,31 @@
   {
     "flightNumber": "1962",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "2h 1m",
-      "hours": 2,
-      "minutes": 1
+      "locale": "1h 38m",
+      "hours": 1,
+      "minutes": 38
     },
-    "departureTime": "2020-01-17T03:01:00.000-06:00",
-    "arrivalTime": "2020-01-17T06:02:00.000-05:00",
+    "departureTime": "2020-01-17T03:01:00.000+01:00",
+    "arrivalTime": "2020-01-17T04:39:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -4448,31 +4448,31 @@
   {
     "flightNumber": "8460",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 58m",
+      "locale": "1h 35m",
       "hours": 1,
-      "minutes": 58
+      "minutes": 35
     },
-    "departureTime": "2020-01-17T05:08:00.000-06:00",
-    "arrivalTime": "2020-01-17T08:06:00.000-05:00",
+    "departureTime": "2020-01-17T05:08:00.000+01:00",
+    "arrivalTime": "2020-01-17T06:43:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -4486,31 +4486,31 @@
   {
     "flightNumber": "8663",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 54m",
+      "locale": "1h 32m",
       "hours": 1,
-      "minutes": 54
+      "minutes": 32
     },
-    "departureTime": "2020-01-17T07:00:00.000-06:00",
-    "arrivalTime": "2020-01-17T09:54:00.000-05:00",
+    "departureTime": "2020-01-17T07:00:00.000+01:00",
+    "arrivalTime": "2020-01-17T08:32:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -4524,31 +4524,31 @@
   {
     "flightNumber": "0240",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 52m",
+      "locale": "1h 30m",
       "hours": 1,
-      "minutes": 52
+      "minutes": 30
     },
-    "departureTime": "2020-01-17T09:09:00.000-06:00",
-    "arrivalTime": "2020-01-17T12:01:00.000-05:00",
+    "departureTime": "2020-01-17T09:09:00.000+01:00",
+    "arrivalTime": "2020-01-17T10:39:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -4562,31 +4562,31 @@
   {
     "flightNumber": "9138",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "2h 4m",
-      "hours": 2,
-      "minutes": 4
+      "locale": "1h 40m",
+      "hours": 1,
+      "minutes": 40
     },
-    "departureTime": "2020-01-17T10:59:00.000-06:00",
-    "arrivalTime": "2020-01-17T14:03:00.000-05:00",
+    "departureTime": "2020-01-17T10:59:00.000+01:00",
+    "arrivalTime": "2020-01-17T12:39:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -4600,31 +4600,31 @@
   {
     "flightNumber": "5393",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 57m",
+      "locale": "1h 34m",
       "hours": 1,
-      "minutes": 57
+      "minutes": 34
     },
-    "departureTime": "2020-01-17T12:45:00.000-06:00",
-    "arrivalTime": "2020-01-17T15:42:00.000-05:00",
+    "departureTime": "2020-01-17T12:45:00.000+01:00",
+    "arrivalTime": "2020-01-17T14:19:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -4638,31 +4638,31 @@
   {
     "flightNumber": "5732",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 52m",
+      "locale": "1h 31m",
       "hours": 1,
-      "minutes": 52
+      "minutes": 31
     },
-    "departureTime": "2020-01-17T14:53:00.000-06:00",
-    "arrivalTime": "2020-01-17T17:45:00.000-05:00",
+    "departureTime": "2020-01-17T14:53:00.000+01:00",
+    "arrivalTime": "2020-01-17T16:24:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -4676,31 +4676,31 @@
   {
     "flightNumber": "7278",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 58m",
+      "locale": "1h 35m",
       "hours": 1,
-      "minutes": 58
+      "minutes": 35
     },
-    "departureTime": "2020-01-17T17:06:00.000-06:00",
-    "arrivalTime": "2020-01-17T20:04:00.000-05:00",
+    "departureTime": "2020-01-17T17:06:00.000+01:00",
+    "arrivalTime": "2020-01-17T18:41:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -4714,31 +4714,31 @@
   {
     "flightNumber": "0331",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 51m",
+      "locale": "1h 29m",
       "hours": 1,
-      "minutes": 51
+      "minutes": 29
     },
-    "departureTime": "2020-01-17T19:18:00.000-06:00",
-    "arrivalTime": "2020-01-17T22:09:00.000-05:00",
+    "departureTime": "2020-01-17T19:18:00.000+01:00",
+    "arrivalTime": "2020-01-17T20:47:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -4752,31 +4752,31 @@
   {
     "flightNumber": "9162",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "1h 58m",
+      "locale": "1h 35m",
       "hours": 1,
-      "minutes": 58
+      "minutes": 35
     },
-    "departureTime": "2020-01-17T21:35:00.000-06:00",
-    "arrivalTime": "2020-01-18T00:33:00.000-05:00",
+    "departureTime": "2020-01-17T21:35:00.000+01:00",
+    "arrivalTime": "2020-01-17T23:10:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -4790,31 +4790,31 @@
   {
     "flightNumber": "4756",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "2h 7m",
-      "hours": 2,
-      "minutes": 7
+      "locale": "1h 42m",
+      "hours": 1,
+      "minutes": 42
     },
-    "departureTime": "2020-01-17T23:55:00.000-06:00",
-    "arrivalTime": "2020-01-18T03:02:00.000-05:00",
+    "departureTime": "2020-01-17T23:55:00.000+01:00",
+    "arrivalTime": "2020-01-18T01:37:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -4828,31 +4828,31 @@
   {
     "flightNumber": "5299",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "JFK",
-      "city": "New York City",
-      "timezone": "America/New_York",
+      "code": "FRA",
+      "city": "Frankfurt",
+      "timezone": "Europe/Berlin",
       "location": {
-        "latitude": 40.6413,
-        "longitude": 73.7781
+        "latitude": 50.0379,
+        "longitude": 8.5622
       }
     },
-    "distance": 739,
+    "distance": 597,
     "duration": {
-      "locale": "2h 0m",
-      "hours": 2,
-      "minutes": 0
+      "locale": "1h 37m",
+      "hours": 1,
+      "minutes": 37
     },
-    "departureTime": "2020-01-18T01:59:00.000-06:00",
-    "arrivalTime": "2020-01-18T04:59:00.000-05:00",
+    "departureTime": "2020-01-18T01:59:00.000+01:00",
+    "arrivalTime": "2020-01-18T03:36:00.000+01:00",
     "aircraft": {
       "model": "738",
       "passengerCapacity": {
@@ -4866,31 +4866,31 @@
   {
     "flightNumber": "1147",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 15m",
-      "hours": 2,
-      "minutes": 15
+      "locale": "1h 56m",
+      "hours": 1,
+      "minutes": 56
     },
-    "departureTime": "2020-01-17T04:03:00.000-06:00",
-    "arrivalTime": "2020-01-17T06:18:00.000-06:00",
+    "departureTime": "2020-01-17T04:03:00.000+01:00",
+    "arrivalTime": "2020-01-17T05:59:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -4904,31 +4904,31 @@
   {
     "flightNumber": "3491",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 11m",
-      "hours": 2,
-      "minutes": 11
+      "locale": "1h 52m",
+      "hours": 1,
+      "minutes": 52
     },
-    "departureTime": "2020-01-17T06:32:00.000-06:00",
-    "arrivalTime": "2020-01-17T08:43:00.000-06:00",
+    "departureTime": "2020-01-17T06:32:00.000+01:00",
+    "arrivalTime": "2020-01-17T08:24:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -4942,31 +4942,31 @@
   {
     "flightNumber": "2249",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 8m",
-      "hours": 2,
-      "minutes": 8
+      "locale": "1h 50m",
+      "hours": 1,
+      "minutes": 50
     },
-    "departureTime": "2020-01-17T08:57:00.000-06:00",
-    "arrivalTime": "2020-01-17T11:05:00.000-06:00",
+    "departureTime": "2020-01-17T08:57:00.000+01:00",
+    "arrivalTime": "2020-01-17T10:47:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -4980,31 +4980,31 @@
   {
     "flightNumber": "9934",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 1m",
-      "hours": 2,
-      "minutes": 1
+      "locale": "1h 43m",
+      "hours": 1,
+      "minutes": 43
     },
-    "departureTime": "2020-01-17T12:01:00.000-06:00",
-    "arrivalTime": "2020-01-17T14:02:00.000-06:00",
+    "departureTime": "2020-01-17T12:01:00.000+01:00",
+    "arrivalTime": "2020-01-17T13:44:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -5018,31 +5018,31 @@
   {
     "flightNumber": "0405",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 11m",
-      "hours": 2,
-      "minutes": 11
+      "locale": "1h 52m",
+      "hours": 1,
+      "minutes": 52
     },
-    "departureTime": "2020-01-17T15:06:00.000-06:00",
-    "arrivalTime": "2020-01-17T17:17:00.000-06:00",
+    "departureTime": "2020-01-17T15:06:00.000+01:00",
+    "arrivalTime": "2020-01-17T16:58:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -5056,31 +5056,31 @@
   {
     "flightNumber": "8937",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 7m",
-      "hours": 2,
-      "minutes": 7
+      "locale": "1h 49m",
+      "hours": 1,
+      "minutes": 49
     },
-    "departureTime": "2020-01-17T18:08:00.000-06:00",
-    "arrivalTime": "2020-01-17T20:15:00.000-06:00",
+    "departureTime": "2020-01-17T18:08:00.000+01:00",
+    "arrivalTime": "2020-01-17T19:57:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -5094,31 +5094,31 @@
   {
     "flightNumber": "7796",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 17m",
-      "hours": 2,
-      "minutes": 17
+      "locale": "1h 57m",
+      "hours": 1,
+      "minutes": 57
     },
-    "departureTime": "2020-01-17T20:35:00.000-06:00",
-    "arrivalTime": "2020-01-17T22:52:00.000-06:00",
+    "departureTime": "2020-01-17T20:35:00.000+01:00",
+    "arrivalTime": "2020-01-17T22:32:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
@@ -5132,31 +5132,31 @@
   {
     "flightNumber": "0817",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 12m",
-      "hours": 2,
-      "minutes": 12
+      "locale": "1h 52m",
+      "hours": 1,
+      "minutes": 52
     },
-    "departureTime": "2020-01-17T23:27:00.000-06:00",
-    "arrivalTime": "2020-01-18T01:39:00.000-06:00",
+    "departureTime": "2020-01-17T23:27:00.000+01:00",
+    "arrivalTime": "2020-01-18T01:19:00.000+01:00",
     "aircraft": {
       "model": "321",
       "passengerCapacity": {
@@ -5170,31 +5170,31 @@
   {
     "flightNumber": "9311",
     "origin": {
-      "code": "ORD",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
+      "code": "FCO",
+      "city": "Rome",
+      "timezone": "Europe/Rome",
       "location": {
-        "latitude": 41.9742,
-        "longitude": 87.9073
+        "latitude": 41.7999,
+        "longitude": 12.2462
       }
     },
     "destination": {
-      "code": "DFW",
-      "city": "Dallas-Fort Worth",
-      "timezone": "America/Chicago",
+      "code": "CDG",
+      "city": "Paris",
+      "timezone": "Europe/Paris",
       "location": {
-        "latitude": 32.8998,
-        "longitude": 97.0403
+        "latitude": 49.0097,
+        "longitude": 2.5479
       }
     },
-    "distance": 802,
+    "distance": 685,
     "duration": {
-      "locale": "2h 10m",
-      "hours": 2,
-      "minutes": 10
+      "locale": "1h 51m",
+      "hours": 1,
+      "minutes": 51
     },
-    "departureTime": "2020-01-18T02:21:00.000-06:00",
-    "arrivalTime": "2020-01-18T04:31:00.000-06:00",
+    "departureTime": "2020-01-18T02:21:00.000+01:00",
+    "arrivalTime": "2020-01-18T04:12:00.000+01:00",
     "aircraft": {
       "model": "757",
       "passengerCapacity": {
