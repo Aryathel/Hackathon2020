@@ -1,0 +1,5208 @@
+[
+  {
+    "flightNumber": "9179",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 13m",
+      "hours": 2,
+      "minutes": 13
+    },
+    "departureTime": "2020-01-17T02:54:00.000-06:00",
+    "arrivalTime": "2020-01-17T05:07:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "5919",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 1m",
+      "hours": 2,
+      "minutes": 1
+    },
+    "departureTime": "2020-01-17T04:50:00.000-06:00",
+    "arrivalTime": "2020-01-17T06:51:00.000-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8680",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 7m",
+      "hours": 2,
+      "minutes": 7
+    },
+    "departureTime": "2020-01-17T06:49:00.000-06:00",
+    "arrivalTime": "2020-01-17T08:56:00.000-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2990",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 2m",
+      "hours": 2,
+      "minutes": 2
+    },
+    "departureTime": "2020-01-17T08:41:00.000-06:00",
+    "arrivalTime": "2020-01-17T10:43:00.000-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0141",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 5m",
+      "hours": 2,
+      "minutes": 5
+    },
+    "departureTime": "2020-01-17T10:32:00.000-06:00",
+    "arrivalTime": "2020-01-17T12:37:00.000-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6290",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 11m",
+      "hours": 2,
+      "minutes": 11
+    },
+    "departureTime": "2020-01-17T12:34:00.000-06:00",
+    "arrivalTime": "2020-01-17T14:45:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "6279",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 18m",
+      "hours": 2,
+      "minutes": 18
+    },
+    "departureTime": "2020-01-17T14:25:00.000-06:00",
+    "arrivalTime": "2020-01-17T16:43:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "3510",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 0m",
+      "hours": 2,
+      "minutes": 0
+    },
+    "departureTime": "2020-01-17T16:23:00.000-06:00",
+    "arrivalTime": "2020-01-17T18:23:00.000-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1134",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 11m",
+      "hours": 2,
+      "minutes": 11
+    },
+    "departureTime": "2020-01-17T18:26:00.000-06:00",
+    "arrivalTime": "2020-01-17T20:37:00.000-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8039",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 10m",
+      "hours": 2,
+      "minutes": 10
+    },
+    "departureTime": "2020-01-17T20:27:00.000-06:00",
+    "arrivalTime": "2020-01-17T22:37:00.000-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3055",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 4m",
+      "hours": 2,
+      "minutes": 4
+    },
+    "departureTime": "2020-01-17T22:47:00.000-06:00",
+    "arrivalTime": "2020-01-18T00:51:00.000-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2154",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 2m",
+      "hours": 2,
+      "minutes": 2
+    },
+    "departureTime": "2020-01-18T00:48:00.000-06:00",
+    "arrivalTime": "2020-01-18T02:50:00.000-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5996",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 19m",
+      "hours": 3,
+      "minutes": 19
+    },
+    "departureTime": "2020-01-17T02:34:00.000-06:00",
+    "arrivalTime": "2020-01-17T03:53:00.000-08:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "0197",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 15m",
+      "hours": 3,
+      "minutes": 15
+    },
+    "departureTime": "2020-01-17T03:46:00.000-06:00",
+    "arrivalTime": "2020-01-17T05:01:00.000-08:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1515",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 17m",
+      "hours": 3,
+      "minutes": 17
+    },
+    "departureTime": "2020-01-17T05:28:00.000-06:00",
+    "arrivalTime": "2020-01-17T06:45:00.000-08:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6972",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 8m",
+      "hours": 3,
+      "minutes": 8
+    },
+    "departureTime": "2020-01-17T06:42:00.000-06:00",
+    "arrivalTime": "2020-01-17T07:50:00.000-08:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5896",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 31m",
+      "hours": 3,
+      "minutes": 31
+    },
+    "departureTime": "2020-01-17T08:05:00.000-06:00",
+    "arrivalTime": "2020-01-17T09:36:00.000-08:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "2825",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 21m",
+      "hours": 3,
+      "minutes": 21
+    },
+    "departureTime": "2020-01-17T09:16:00.000-06:00",
+    "arrivalTime": "2020-01-17T10:37:00.000-08:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5371",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 10m",
+      "hours": 3,
+      "minutes": 10
+    },
+    "departureTime": "2020-01-17T10:45:00.000-06:00",
+    "arrivalTime": "2020-01-17T11:55:00.000-08:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3871",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 13m",
+      "hours": 3,
+      "minutes": 13
+    },
+    "departureTime": "2020-01-17T12:05:00.000-06:00",
+    "arrivalTime": "2020-01-17T13:18:00.000-08:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8334",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 23m",
+      "hours": 3,
+      "minutes": 23
+    },
+    "departureTime": "2020-01-17T13:52:00.000-06:00",
+    "arrivalTime": "2020-01-17T15:15:00.000-08:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2280",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 14m",
+      "hours": 3,
+      "minutes": 14
+    },
+    "departureTime": "2020-01-17T15:18:00.000-06:00",
+    "arrivalTime": "2020-01-17T16:32:00.000-08:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9190",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 14m",
+      "hours": 3,
+      "minutes": 14
+    },
+    "departureTime": "2020-01-17T16:43:00.000-06:00",
+    "arrivalTime": "2020-01-17T17:57:00.000-08:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4732",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 28m",
+      "hours": 3,
+      "minutes": 28
+    },
+    "departureTime": "2020-01-17T17:58:00.000-06:00",
+    "arrivalTime": "2020-01-17T19:26:00.000-08:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "7236",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 17m",
+      "hours": 3,
+      "minutes": 17
+    },
+    "departureTime": "2020-01-17T19:19:00.000-06:00",
+    "arrivalTime": "2020-01-17T20:36:00.000-08:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "2927",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 7m",
+      "hours": 3,
+      "minutes": 7
+    },
+    "departureTime": "2020-01-17T20:55:00.000-06:00",
+    "arrivalTime": "2020-01-17T22:02:00.000-08:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1186",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 29m",
+      "hours": 3,
+      "minutes": 29
+    },
+    "departureTime": "2020-01-17T22:23:00.000-06:00",
+    "arrivalTime": "2020-01-17T23:52:00.000-08:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "2568",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 21m",
+      "hours": 3,
+      "minutes": 21
+    },
+    "departureTime": "2020-01-17T23:53:00.000-06:00",
+    "arrivalTime": "2020-01-18T01:14:00.000-08:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8871",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 55m",
+      "hours": 3,
+      "minutes": 55
+    },
+    "departureTime": "2020-01-17T03:26:00.000-06:00",
+    "arrivalTime": "2020-01-17T08:21:00.000-05:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "4995",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 36m",
+      "hours": 3,
+      "minutes": 36
+    },
+    "departureTime": "2020-01-17T05:54:00.000-06:00",
+    "arrivalTime": "2020-01-17T10:30:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5804",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 36m",
+      "hours": 3,
+      "minutes": 36
+    },
+    "departureTime": "2020-01-17T08:01:00.000-06:00",
+    "arrivalTime": "2020-01-17T12:37:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2733",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 36m",
+      "hours": 3,
+      "minutes": 36
+    },
+    "departureTime": "2020-01-17T09:57:00.000-06:00",
+    "arrivalTime": "2020-01-17T14:33:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7935",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 36m",
+      "hours": 3,
+      "minutes": 36
+    },
+    "departureTime": "2020-01-17T12:05:00.000-06:00",
+    "arrivalTime": "2020-01-17T16:41:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8883",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 45m",
+      "hours": 3,
+      "minutes": 45
+    },
+    "departureTime": "2020-01-17T14:01:00.000-06:00",
+    "arrivalTime": "2020-01-17T18:46:00.000-05:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "0482",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 47m",
+      "hours": 3,
+      "minutes": 47
+    },
+    "departureTime": "2020-01-17T16:14:00.000-06:00",
+    "arrivalTime": "2020-01-17T21:01:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4719",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 28m",
+      "hours": 3,
+      "minutes": 28
+    },
+    "departureTime": "2020-01-17T18:24:00.000-06:00",
+    "arrivalTime": "2020-01-17T22:52:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8260",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 37m",
+      "hours": 3,
+      "minutes": 37
+    },
+    "departureTime": "2020-01-17T20:45:00.000-06:00",
+    "arrivalTime": "2020-01-18T01:22:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4772",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 29m",
+      "hours": 3,
+      "minutes": 29
+    },
+    "departureTime": "2020-01-17T22:42:00.000-06:00",
+    "arrivalTime": "2020-01-18T03:11:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1285",
+    "origin": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 47m",
+      "hours": 3,
+      "minutes": 47
+    },
+    "departureTime": "2020-01-18T00:57:00.000-06:00",
+    "arrivalTime": "2020-01-18T05:44:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1923",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 51m",
+      "hours": 1,
+      "minutes": 51
+    },
+    "departureTime": "2020-01-17T02:59:32.307-05:00",
+    "arrivalTime": "2020-01-17T03:50:32.307-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6588",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 6m",
+      "hours": 2,
+      "minutes": 6
+    },
+    "departureTime": "2020-01-17T04:24:04.614-05:00",
+    "arrivalTime": "2020-01-17T05:30:04.614-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "8723",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 0m",
+      "hours": 2,
+      "minutes": 0
+    },
+    "departureTime": "2020-01-17T06:12:36.921-05:00",
+    "arrivalTime": "2020-01-17T07:12:36.921-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "8098",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 0m",
+      "hours": 2,
+      "minutes": 0
+    },
+    "departureTime": "2020-01-17T08:07:09.228-05:00",
+    "arrivalTime": "2020-01-17T09:07:09.228-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1558",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 59m",
+      "hours": 1,
+      "minutes": 59
+    },
+    "departureTime": "2020-01-17T09:35:41.535-05:00",
+    "arrivalTime": "2020-01-17T10:34:41.535-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3309",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 53m",
+      "hours": 1,
+      "minutes": 53
+    },
+    "departureTime": "2020-01-17T11:09:13.842-05:00",
+    "arrivalTime": "2020-01-17T12:02:13.842-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2783",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 57m",
+      "hours": 1,
+      "minutes": 57
+    },
+    "departureTime": "2020-01-17T13:00:46.149-05:00",
+    "arrivalTime": "2020-01-17T13:57:46.149-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1630",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 58m",
+      "hours": 1,
+      "minutes": 58
+    },
+    "departureTime": "2020-01-17T14:49:18.456-05:00",
+    "arrivalTime": "2020-01-17T15:47:18.456-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4380",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 59m",
+      "hours": 1,
+      "minutes": 59
+    },
+    "departureTime": "2020-01-17T16:20:50.763-05:00",
+    "arrivalTime": "2020-01-17T17:19:50.763-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "6092",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 6m",
+      "hours": 2,
+      "minutes": 6
+    },
+    "departureTime": "2020-01-17T18:02:23.070-05:00",
+    "arrivalTime": "2020-01-17T19:08:23.070-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "3324",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 58m",
+      "hours": 1,
+      "minutes": 58
+    },
+    "departureTime": "2020-01-17T19:27:55.377-05:00",
+    "arrivalTime": "2020-01-17T20:25:55.377-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7872",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 4m",
+      "hours": 2,
+      "minutes": 4
+    },
+    "departureTime": "2020-01-17T21:03:27.684-05:00",
+    "arrivalTime": "2020-01-17T22:07:27.684-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "6772",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 59m",
+      "hours": 1,
+      "minutes": 59
+    },
+    "departureTime": "2020-01-17T22:36:59.991-05:00",
+    "arrivalTime": "2020-01-17T23:35:59.991-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4727",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 58m",
+      "hours": 1,
+      "minutes": 58
+    },
+    "departureTime": "2020-01-18T00:30:32.298-05:00",
+    "arrivalTime": "2020-01-18T01:28:32.298-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7757",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 55m",
+      "hours": 6,
+      "minutes": 55
+    },
+    "departureTime": "2020-01-17T04:55:00.000-05:00",
+    "arrivalTime": "2020-01-17T08:50:00.000-08:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "4843",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 44m",
+      "hours": 6,
+      "minutes": 44
+    },
+    "departureTime": "2020-01-17T08:53:00.000-05:00",
+    "arrivalTime": "2020-01-17T12:37:00.000-08:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4898",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 36m",
+      "hours": 6,
+      "minutes": 36
+    },
+    "departureTime": "2020-01-17T12:52:00.000-05:00",
+    "arrivalTime": "2020-01-17T16:28:00.000-08:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "5319",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 39m",
+      "hours": 6,
+      "minutes": 39
+    },
+    "departureTime": "2020-01-17T16:36:00.000-05:00",
+    "arrivalTime": "2020-01-17T20:15:00.000-08:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5926",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 32m",
+      "hours": 6,
+      "minutes": 32
+    },
+    "departureTime": "2020-01-17T19:59:00.000-05:00",
+    "arrivalTime": "2020-01-17T23:31:00.000-08:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3990",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 24m",
+      "hours": 6,
+      "minutes": 24
+    },
+    "departureTime": "2020-01-17T23:36:00.000-05:00",
+    "arrivalTime": "2020-01-18T03:00:00.000-08:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7404",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 30m",
+      "hours": 6,
+      "minutes": 30
+    },
+    "departureTime": "2020-01-18T03:01:00.000-05:00",
+    "arrivalTime": "2020-01-18T06:31:00.000-08:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2052",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 42m",
+      "hours": 3,
+      "minutes": 42
+    },
+    "departureTime": "2020-01-17T03:11:00.000-05:00",
+    "arrivalTime": "2020-01-17T05:53:00.000-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1636",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 49m",
+      "hours": 3,
+      "minutes": 49
+    },
+    "departureTime": "2020-01-17T05:16:00.000-05:00",
+    "arrivalTime": "2020-01-17T08:05:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "6512",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 48m",
+      "hours": 3,
+      "minutes": 48
+    },
+    "departureTime": "2020-01-17T07:23:00.000-05:00",
+    "arrivalTime": "2020-01-17T10:11:00.000-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9885",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 46m",
+      "hours": 3,
+      "minutes": 46
+    },
+    "departureTime": "2020-01-17T09:25:00.000-05:00",
+    "arrivalTime": "2020-01-17T12:11:00.000-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3040",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 56m",
+      "hours": 3,
+      "minutes": 56
+    },
+    "departureTime": "2020-01-17T11:31:00.000-05:00",
+    "arrivalTime": "2020-01-17T14:27:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "7750",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 47m",
+      "hours": 3,
+      "minutes": 47
+    },
+    "departureTime": "2020-01-17T13:50:00.000-05:00",
+    "arrivalTime": "2020-01-17T16:37:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "0404",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 48m",
+      "hours": 3,
+      "minutes": 48
+    },
+    "departureTime": "2020-01-17T15:47:00.000-05:00",
+    "arrivalTime": "2020-01-17T18:35:00.000-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4309",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 51m",
+      "hours": 3,
+      "minutes": 51
+    },
+    "departureTime": "2020-01-17T17:37:00.000-05:00",
+    "arrivalTime": "2020-01-17T20:28:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "8940",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 58m",
+      "hours": 3,
+      "minutes": 58
+    },
+    "departureTime": "2020-01-17T19:36:00.000-05:00",
+    "arrivalTime": "2020-01-17T22:34:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "2070",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 45m",
+      "hours": 3,
+      "minutes": 45
+    },
+    "departureTime": "2020-01-17T21:37:00.000-05:00",
+    "arrivalTime": "2020-01-18T00:22:00.000-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9568",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 48m",
+      "hours": 3,
+      "minutes": 48
+    },
+    "departureTime": "2020-01-17T23:43:00.000-05:00",
+    "arrivalTime": "2020-01-18T02:31:00.000-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1390",
+    "origin": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1390,
+    "duration": {
+      "locale": "3h 39m",
+      "hours": 3,
+      "minutes": 39
+    },
+    "departureTime": "2020-01-18T01:40:00.000-05:00",
+    "arrivalTime": "2020-01-18T04:19:00.000-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5448",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 23m",
+      "hours": 4,
+      "minutes": 23
+    },
+    "departureTime": "2020-01-17T02:21:17.142-08:00",
+    "arrivalTime": "2020-01-17T08:44:17.142-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8683",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 38m",
+      "hours": 4,
+      "minutes": 38
+    },
+    "departureTime": "2020-01-17T03:39:34.284-08:00",
+    "arrivalTime": "2020-01-17T10:17:34.284-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "3539",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 44m",
+      "hours": 4,
+      "minutes": 44
+    },
+    "departureTime": "2020-01-17T04:58:51.426-08:00",
+    "arrivalTime": "2020-01-17T11:42:51.426-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2085",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 21m",
+      "hours": 4,
+      "minutes": 21
+    },
+    "departureTime": "2020-01-17T06:24:08.568-08:00",
+    "arrivalTime": "2020-01-17T12:45:08.568-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9840",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 31m",
+      "hours": 4,
+      "minutes": 31
+    },
+    "departureTime": "2020-01-17T07:48:25.710-08:00",
+    "arrivalTime": "2020-01-17T14:19:25.710-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7354",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 23m",
+      "hours": 4,
+      "minutes": 23
+    },
+    "departureTime": "2020-01-17T09:41:42.852-08:00",
+    "arrivalTime": "2020-01-17T16:04:42.852-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6096",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 47m",
+      "hours": 4,
+      "minutes": 47
+    },
+    "departureTime": "2020-01-17T11:26:59.994-08:00",
+    "arrivalTime": "2020-01-17T18:13:59.994-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3450",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 23m",
+      "hours": 4,
+      "minutes": 23
+    },
+    "departureTime": "2020-01-17T12:57:17.136-08:00",
+    "arrivalTime": "2020-01-17T19:20:17.136-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0875",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "5h 1m",
+      "hours": 5,
+      "minutes": 1
+    },
+    "departureTime": "2020-01-17T14:34:34.278-08:00",
+    "arrivalTime": "2020-01-17T21:35:34.278-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "6753",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 52m",
+      "hours": 4,
+      "minutes": 52
+    },
+    "departureTime": "2020-01-17T16:12:51.420-08:00",
+    "arrivalTime": "2020-01-17T23:04:51.420-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "9566",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 44m",
+      "hours": 4,
+      "minutes": 44
+    },
+    "departureTime": "2020-01-17T17:38:08.562-08:00",
+    "arrivalTime": "2020-01-18T00:22:08.562-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2869",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 35m",
+      "hours": 4,
+      "minutes": 35
+    },
+    "departureTime": "2020-01-17T19:07:25.704-08:00",
+    "arrivalTime": "2020-01-18T01:42:25.704-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8076",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 32m",
+      "hours": 4,
+      "minutes": 32
+    },
+    "departureTime": "2020-01-17T20:45:42.846-08:00",
+    "arrivalTime": "2020-01-18T03:17:42.846-06:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1432",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 46m",
+      "hours": 4,
+      "minutes": 46
+    },
+    "departureTime": "2020-01-17T22:15:59.988-08:00",
+    "arrivalTime": "2020-01-18T05:01:59.988-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "3750",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 43m",
+      "hours": 4,
+      "minutes": 43
+    },
+    "departureTime": "2020-01-17T23:49:17.130-08:00",
+    "arrivalTime": "2020-01-18T06:32:17.130-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "4973",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 39m",
+      "hours": 6,
+      "minutes": 39
+    },
+    "departureTime": "2020-01-17T02:45:00.000-08:00",
+    "arrivalTime": "2020-01-17T12:24:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2653",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 27m",
+      "hours": 6,
+      "minutes": 27
+    },
+    "departureTime": "2020-01-17T04:35:00.000-08:00",
+    "arrivalTime": "2020-01-17T14:02:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7361",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 23m",
+      "hours": 6,
+      "minutes": 23
+    },
+    "departureTime": "2020-01-17T06:25:00.000-08:00",
+    "arrivalTime": "2020-01-17T15:48:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7867",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 30m",
+      "hours": 6,
+      "minutes": 30
+    },
+    "departureTime": "2020-01-17T08:19:00.000-08:00",
+    "arrivalTime": "2020-01-17T17:49:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0220",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 19m",
+      "hours": 6,
+      "minutes": 19
+    },
+    "departureTime": "2020-01-17T10:00:00.000-08:00",
+    "arrivalTime": "2020-01-17T19:19:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5814",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 23m",
+      "hours": 6,
+      "minutes": 23
+    },
+    "departureTime": "2020-01-17T12:09:00.000-08:00",
+    "arrivalTime": "2020-01-17T21:32:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3107",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 55m",
+      "hours": 6,
+      "minutes": 55
+    },
+    "departureTime": "2020-01-17T13:52:00.000-08:00",
+    "arrivalTime": "2020-01-17T23:47:00.000-05:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "2766",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 47m",
+      "hours": 6,
+      "minutes": 47
+    },
+    "departureTime": "2020-01-17T16:00:00.000-08:00",
+    "arrivalTime": "2020-01-18T01:47:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1930",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 25m",
+      "hours": 6,
+      "minutes": 25
+    },
+    "departureTime": "2020-01-17T18:19:00.000-08:00",
+    "arrivalTime": "2020-01-18T03:44:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7501",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 20m",
+      "hours": 6,
+      "minutes": 20
+    },
+    "departureTime": "2020-01-17T20:11:00.000-08:00",
+    "arrivalTime": "2020-01-18T05:31:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8100",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 14m",
+      "hours": 6,
+      "minutes": 14
+    },
+    "departureTime": "2020-01-17T22:18:00.000-08:00",
+    "arrivalTime": "2020-01-18T07:32:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1479",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 2472,
+    "duration": {
+      "locale": "6h 16m",
+      "hours": 6,
+      "minutes": 16
+    },
+    "departureTime": "2020-01-18T00:30:00.000-08:00",
+    "arrivalTime": "2020-01-18T09:46:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4918",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 22m",
+      "hours": 3,
+      "minutes": 22
+    },
+    "departureTime": "2020-01-17T04:36:00.000-08:00",
+    "arrivalTime": "2020-01-17T09:58:00.000-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7343",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 16m",
+      "hours": 3,
+      "minutes": 16
+    },
+    "departureTime": "2020-01-17T08:23:00.000-08:00",
+    "arrivalTime": "2020-01-17T13:39:00.000-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5478",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 17m",
+      "hours": 3,
+      "minutes": 17
+    },
+    "departureTime": "2020-01-17T11:57:00.000-08:00",
+    "arrivalTime": "2020-01-17T17:14:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1025",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 5m",
+      "hours": 3,
+      "minutes": 5
+    },
+    "departureTime": "2020-01-17T15:51:00.000-08:00",
+    "arrivalTime": "2020-01-17T20:56:00.000-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7076",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 12m",
+      "hours": 3,
+      "minutes": 12
+    },
+    "departureTime": "2020-01-17T19:37:00.000-08:00",
+    "arrivalTime": "2020-01-18T00:49:00.000-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2347",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 17m",
+      "hours": 3,
+      "minutes": 17
+    },
+    "departureTime": "2020-01-17T23:20:00.000-08:00",
+    "arrivalTime": "2020-01-18T04:37:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "8822",
+    "origin": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 1234,
+    "duration": {
+      "locale": "3h 26m",
+      "hours": 3,
+      "minutes": 26
+    },
+    "departureTime": "2020-01-18T02:53:00.000-08:00",
+    "arrivalTime": "2020-01-18T08:19:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "6512",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 36m",
+      "hours": 4,
+      "minutes": 36
+    },
+    "departureTime": "2020-01-17T03:06:40.000-06:00",
+    "arrivalTime": "2020-01-17T05:42:40.000-08:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "6830",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 23m",
+      "hours": 4,
+      "minutes": 23
+    },
+    "departureTime": "2020-01-17T05:37:20.000-06:00",
+    "arrivalTime": "2020-01-17T08:00:20.000-08:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5562",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 55m",
+      "hours": 4,
+      "minutes": 55
+    },
+    "departureTime": "2020-01-17T08:04:00.000-06:00",
+    "arrivalTime": "2020-01-17T10:59:00.000-08:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1470",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 47m",
+      "hours": 4,
+      "minutes": 47
+    },
+    "departureTime": "2020-01-17T10:25:40.000-06:00",
+    "arrivalTime": "2020-01-17T13:12:40.000-08:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3238",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 43m",
+      "hours": 4,
+      "minutes": 43
+    },
+    "departureTime": "2020-01-17T12:43:20.000-06:00",
+    "arrivalTime": "2020-01-17T15:26:20.000-08:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1839",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 49m",
+      "hours": 4,
+      "minutes": 49
+    },
+    "departureTime": "2020-01-17T15:21:00.000-06:00",
+    "arrivalTime": "2020-01-17T18:10:00.000-08:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "2362",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 42m",
+      "hours": 4,
+      "minutes": 42
+    },
+    "departureTime": "2020-01-17T17:36:40.000-06:00",
+    "arrivalTime": "2020-01-17T20:18:40.000-08:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9815",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 37m",
+      "hours": 4,
+      "minutes": 37
+    },
+    "departureTime": "2020-01-17T19:52:20.000-06:00",
+    "arrivalTime": "2020-01-17T22:29:20.000-08:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3466",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 30m",
+      "hours": 4,
+      "minutes": 30
+    },
+    "departureTime": "2020-01-17T22:26:00.000-06:00",
+    "arrivalTime": "2020-01-18T00:56:00.000-08:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "3329",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "location": {
+        "latitude": 33.9416,
+        "longitude": 118.4085
+      }
+    },
+    "distance": 1743,
+    "duration": {
+      "locale": "4h 47m",
+      "hours": 4,
+      "minutes": 47
+    },
+    "departureTime": "2020-01-18T01:03:40.000-06:00",
+    "arrivalTime": "2020-01-18T03:50:40.000-08:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "1962",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 1m",
+      "hours": 2,
+      "minutes": 1
+    },
+    "departureTime": "2020-01-17T03:01:00.000-06:00",
+    "arrivalTime": "2020-01-17T06:02:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8460",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 58m",
+      "hours": 1,
+      "minutes": 58
+    },
+    "departureTime": "2020-01-17T05:08:00.000-06:00",
+    "arrivalTime": "2020-01-17T08:06:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8663",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 54m",
+      "hours": 1,
+      "minutes": 54
+    },
+    "departureTime": "2020-01-17T07:00:00.000-06:00",
+    "arrivalTime": "2020-01-17T09:54:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0240",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 52m",
+      "hours": 1,
+      "minutes": 52
+    },
+    "departureTime": "2020-01-17T09:09:00.000-06:00",
+    "arrivalTime": "2020-01-17T12:01:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9138",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 4m",
+      "hours": 2,
+      "minutes": 4
+    },
+    "departureTime": "2020-01-17T10:59:00.000-06:00",
+    "arrivalTime": "2020-01-17T14:03:00.000-05:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "5393",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 57m",
+      "hours": 1,
+      "minutes": 57
+    },
+    "departureTime": "2020-01-17T12:45:00.000-06:00",
+    "arrivalTime": "2020-01-17T15:42:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "5732",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 52m",
+      "hours": 1,
+      "minutes": 52
+    },
+    "departureTime": "2020-01-17T14:53:00.000-06:00",
+    "arrivalTime": "2020-01-17T17:45:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7278",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 58m",
+      "hours": 1,
+      "minutes": 58
+    },
+    "departureTime": "2020-01-17T17:06:00.000-06:00",
+    "arrivalTime": "2020-01-17T20:04:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0331",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 51m",
+      "hours": 1,
+      "minutes": 51
+    },
+    "departureTime": "2020-01-17T19:18:00.000-06:00",
+    "arrivalTime": "2020-01-17T22:09:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9162",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "1h 58m",
+      "hours": 1,
+      "minutes": 58
+    },
+    "departureTime": "2020-01-17T21:35:00.000-06:00",
+    "arrivalTime": "2020-01-18T00:33:00.000-05:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "4756",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 7m",
+      "hours": 2,
+      "minutes": 7
+    },
+    "departureTime": "2020-01-17T23:55:00.000-06:00",
+    "arrivalTime": "2020-01-18T03:02:00.000-05:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "5299",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "JFK",
+      "city": "New York City",
+      "timezone": "America/New_York",
+      "location": {
+        "latitude": 40.6413,
+        "longitude": 73.7781
+      }
+    },
+    "distance": 739,
+    "duration": {
+      "locale": "2h 0m",
+      "hours": 2,
+      "minutes": 0
+    },
+    "departureTime": "2020-01-18T01:59:00.000-06:00",
+    "arrivalTime": "2020-01-18T04:59:00.000-05:00",
+    "aircraft": {
+      "model": "738",
+      "passengerCapacity": {
+        "total": 160,
+        "main": 144,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "1147",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 15m",
+      "hours": 2,
+      "minutes": 15
+    },
+    "departureTime": "2020-01-17T04:03:00.000-06:00",
+    "arrivalTime": "2020-01-17T06:18:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "3491",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 11m",
+      "hours": 2,
+      "minutes": 11
+    },
+    "departureTime": "2020-01-17T06:32:00.000-06:00",
+    "arrivalTime": "2020-01-17T08:43:00.000-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "2249",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 8m",
+      "hours": 2,
+      "minutes": 8
+    },
+    "departureTime": "2020-01-17T08:57:00.000-06:00",
+    "arrivalTime": "2020-01-17T11:05:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "9934",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 1m",
+      "hours": 2,
+      "minutes": 1
+    },
+    "departureTime": "2020-01-17T12:01:00.000-06:00",
+    "arrivalTime": "2020-01-17T14:02:00.000-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "0405",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 11m",
+      "hours": 2,
+      "minutes": 11
+    },
+    "departureTime": "2020-01-17T15:06:00.000-06:00",
+    "arrivalTime": "2020-01-17T17:17:00.000-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "8937",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 7m",
+      "hours": 2,
+      "minutes": 7
+    },
+    "departureTime": "2020-01-17T18:08:00.000-06:00",
+    "arrivalTime": "2020-01-17T20:15:00.000-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "7796",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 17m",
+      "hours": 2,
+      "minutes": 17
+    },
+    "departureTime": "2020-01-17T20:35:00.000-06:00",
+    "arrivalTime": "2020-01-17T22:52:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  },
+  {
+    "flightNumber": "0817",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 12m",
+      "hours": 2,
+      "minutes": 12
+    },
+    "departureTime": "2020-01-17T23:27:00.000-06:00",
+    "arrivalTime": "2020-01-18T01:39:00.000-06:00",
+    "aircraft": {
+      "model": "321",
+      "passengerCapacity": {
+        "total": 181,
+        "main": 165,
+        "first": 16
+      },
+      "speed": 400
+    }
+  },
+  {
+    "flightNumber": "9311",
+    "origin": {
+      "code": "ORD",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 41.9742,
+        "longitude": 87.9073
+      }
+    },
+    "destination": {
+      "code": "DFW",
+      "city": "Dallas-Fort Worth",
+      "timezone": "America/Chicago",
+      "location": {
+        "latitude": 32.8998,
+        "longitude": 97.0403
+      }
+    },
+    "distance": 802,
+    "duration": {
+      "locale": "2h 10m",
+      "hours": 2,
+      "minutes": 10
+    },
+    "departureTime": "2020-01-18T02:21:00.000-06:00",
+    "arrivalTime": "2020-01-18T04:31:00.000-06:00",
+    "aircraft": {
+      "model": "757",
+      "passengerCapacity": {
+        "total": 176,
+        "main": 160,
+        "first": 16
+      },
+      "speed": 380
+    }
+  }
+]
