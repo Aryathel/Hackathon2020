@@ -1,0 +1,15 @@
+{
+  "name": "fly-query-rs",
+  "collaborators": [
+    "Aurorans Solis <primalucegd@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "fly_query_rs_bg.wasm",
+    "fly_query_rs.js",
+    "fly_query_rs.d.ts"
+  ],
+  "module": "fly_query_rs.js",
+  "types": "fly_query_rs.d.ts",
+  "sideEffects": "false"
+}
