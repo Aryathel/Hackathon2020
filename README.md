@@ -1,7 +1,7 @@
 # Hackathon 2020
 This is the repository for Houghton Mayfield, Lucas Gompou, Cam Larson, and Aurorans Solis as we take on Hack AZ 2020.
 
-## Challenge
+## The Challenge
 We decided to take on the [Fly.me](https://fly.me/) challenge, as well as participating in the [American Airlines challenge](https://github.com/AmericanAirlines/Flight-Engine/wiki/Hack-Arizona-2020) as a sub-category.
 
 * For the Fly.me challenge, we were given access to their GraphQL API.
@@ -13,3 +13,8 @@ We decided to take on the [Fly.me](https://fly.me/) challenge, as well as partic
 
 # Our Journey
 Over the course of the 36 hour period, we worked together as a full stack development team to build a website groundwork, both front and back end, as well as a Googe Home Mini application and a Python webhook server.
+
+1. The start of our adventure was with establishing a connection too the GraphQL API provided by Fly.me and seeing what we were provided with.
+  1. None of our members had used GraphQL previously, so it was quite the adventure figuring out how to configure requests properly.
+
+2. Once we had figured out how
