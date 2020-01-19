@@ -104,4 +104,3 @@ pub async fn query_current_search(search: String) -> String {
     return_date: Option<&'a str>,
     round_trip: bool,
 }*/
-
