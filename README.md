@@ -12,7 +12,7 @@ We decided to take on the [Fly.me](https://fly.me/) challenge, as well as partic
   * Because we already were using the Fly.me API, we decided that we could also submit the project for this challenge as well.
 
 # Our Journey
-Over the course of the 36 hour period, we worked together as a full stack development team to build a website groundwork, both front and back end, as well as a Googe Home Mini application and a Python webhook server.
+Over the course of the 36 hour period, we worked together as a full stack development team to build a website groundwork, both front and back end, as well as a Google Home Mini application and a Python webhook server.
 
 1. The start of our adventure was with establishing a connection too the GraphQL API provided by Fly.me and seeing what we were provided with.
    1. None of our members had used GraphQL previously, so it was quite the adventure learning out how to configure requests properly.
@@ -61,4 +61,4 @@ Once you have done this and saved the setting, you can click on the `Google Assi
    * We had a really hard time starting the project. We had some APIs, some information, and absolutely no clue what to do with it. The projects this year were significantly more vague than the previous, which made it hard for us to get started. Eventually we solved this by just getting started. We just messed around with what we had, and let it lead us to a project.
 
 ## A Note From the Members
-While the rundown of our project may have seen pretty quick and efficient, don't be fooled. We struggled the whole time. A lot. Houghton had never used GraphQL, the basis of our whole project; our front end developer, Lucas, had never used ReactJS before, but built and entire site out of it in one weekend; Cameron had never worked with a Google Home before; Auro had never dealt with Web Assembly compiled from Rust. These events are learning experiences, they introduce you to new and exciting things.
+While the rundown of our project may have seen pretty quick and efficient, don't be fooled. We struggled the whole time. A lot. Houghton had never used GraphQL, the basis of our whole project; our front end developer, Lucas, had never used ReactJS before, but built and entire site out of it in one weekend; Cameron had never worked with a Google Home before; Auro had never dealt with Web Assembly compiled from Rust. These events are learning experiences, they introduce you to new and exciting things. Don't be afraid to put yourself out there and challenge yourself. It isn't about winning, it's about the experience.
