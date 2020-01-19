@@ -55,7 +55,7 @@ impl<'a> ApQuery<'a> {
     }
 }
 
-#[wasm_bindgen]
+#[cfg_attr(target_arch="wasm32", wasm_bindgen)]
 pub fn query_current_search(search: &str) -> String {
     block_on(
         match block_on(
@@ -63,6 +63,7 @@ pub fn query_current_search(search: &str) -> String {
                 .post("https://dev.fly.me/api/graphql")
                 .header("authorization", BEARER_AUTH)
                 .header("content-type", "application/json")
+                .fetch_mode_no_cors()
                 .body(serde_json::to_string(&ApQuery::new(search)).unwrap())
                 .send(),
         ) {

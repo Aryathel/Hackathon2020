@@ -468,7 +468,7 @@ export const __wbindgen_memory = function() {
     return addHeapObject(ret);
 };
 
-export const __wbindgen_closure_wrapper250 = function(arg0, arg1, arg2) {
+export const __wbindgen_closure_wrapper251 = function(arg0, arg1, arg2) {
 
     const state = { a: arg0, b: arg1, cnt: 1 };
     const real = (arg0) => {
