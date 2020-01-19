@@ -1,19 +1,7 @@
 /* tslint:disable */
 /* eslint-disable */
 /**
-* @param {number} a 
-* @param {number} b 
-* @returns {number} 
+* @param {string} search 
+* @returns {string} 
 */
-export function add(a: number, b: number): number;
-
-/**
-* If `module_or_path` is {RequestInfo}, makes a request and
-* for everything else, calls `WebAssembly.instantiate` directly.
-*
-* @param {RequestInfo | BufferSource | WebAssembly.Module} module_or_path
-*
-* @returns {Promise<any>}
-*/
-export default function init (module_or_path?: RequestInfo | BufferSource | WebAssembly.Module): Promise<any>;
-        
+export function query_current_search(search: string): string;
