@@ -39,17 +39,23 @@ const Flight = props => {
             <Grid container item>
               <Grid container direction="column" xs={3} item>
                 <Typography variant="body2" color="textSecondary">
-                  February 01, 2020
+                  {props.flight.node.ods[0].formattedDestinationTime}
                 </Typography>
-                <Typography variant="h5">3:35pm</Typography>
+                <Typography variant="h5">
+                  {props.flight.node.ods[0].departureTime}
+                </Typography>
                 <Typography variant="body2" color="textSecondary">
-                  Paris, FR
+                  {props.flight.node.ods[0].originDescriptive.city[0] &&
+                    props.flight.node.ods[0].originDescriptive.city[0].name}
+                  ,{" "}
+                  {props.flight.node.ods[0].originDescriptive.state[0] &&
+                    props.flight.node.ods[0].originDescriptive.state[0].code}
                 </Typography>
               </Grid>
               <Grid xs={6} container spacing={5} justify="center" item>
                 <Grid item>
                   <Typography variant="h4" gutterBottom>
-                    CDG
+                    {props.flight.node.ods[0].origin}
                   </Typography>
                 </Grid>
                 <Grid item>
@@ -62,7 +68,7 @@ const Flight = props => {
                 </Grid>
                 <Grid item>
                   <Typography variant="h4" gutterBottom>
-                    FRA
+                    {props.flight.node.ods[0].destination}
                   </Typography>
                 </Grid>
               </Grid>
@@ -70,9 +76,17 @@ const Flight = props => {
                 <Typography variant="body2" color="textSecondary">
                   Flight 1318
                 </Typography>
-                <Typography variant="h5">4:55pm</Typography>
+                <Typography variant="h5">
+                  {props.flight.node.ods[0].arrivalTime}
+                </Typography>
                 <Typography variant="body2" color="textSecondary">
-                  Frankfurt, D
+                  {props.flight.node.ods[0].destinationDescriptive.city[0] &&
+                    props.flight.node.ods[0].destinationDescriptive.city[0]
+                      .name}
+                  ,{" "}
+                  {props.flight.node.ods[0].destinationDescriptive.state[0] &&
+                    props.flight.node.ods[0].destinationDescriptive.state[0]
+                      .code}
                 </Typography>
               </Grid>
             </Grid>
