@@ -1,9 +1,10 @@
 # Author: Houghton Mayfield                                                             (moral support: Cam ｡◕‿◕｡)
 import requests
 import json
+import datetime
 
 headers = {
-    "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6W10sImlzcyI6Im1lLmZseSIsImRlZmF1bHRUcmF2ZWxlclBlcnNvbklkIjoiMTEyIiwidXNlcklkIjoiNTU1YjlhYTEtMDYzMC00NWQxLWFiMTktNWU2YTY1YjJmZGE1IiwicHVibGljX2V4cGlyZXNfZW0iOiIxNTc5NDA3NDk2NjczIiwidXNlckNvbXBhbnlKc29uIjoie1wiY29tcGFueUlkXCI6MzksXCJtZW1iZXJJZFwiOjE2NixcImVuYWJsZWRNZW1iZXJcIjp0cnVlLFwiYWRtaW5pc3RyYXRvclwiOmZhbHNlLFwiZW5hYmxlZENvbXBhbnlcIjp0cnVlLFwiY29udHJhY3RTaWduZWRcIjp0cnVlfSIsImF1dGgwSWQiOiJnb29nbGUtb2F1dGgyfDExMDQzODM3MTkzNjU4MDI5NTg5NiIsInByb2ZpbGVJZCI6IjkzIiwic2NvcGUiOiJmbHltZWFwaWRldiIsImRiSWQiOiI5MyIsImV4cCI6MTU4MTkxMzA5NiwiaWF0IjoxNTc5MzIxMDk2LCJlbWFpbCI6ImhvdWdodG9uYXdlQGdtYWlsLmNvbSJ9.6AQD77zzDSf9E3FD_f6gjcMRskCo_0XueGkNw9QRwXM",
+    "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJjb21wYW55LWFkbWluIiwidHJhdmVsX3VzZXIiXSwiaXNzIjoibWUuZmx5IiwiZGVmYXVsdFRyYXZlbGVyUGVyc29uSWQiOiIxMTIiLCJ1c2VySWQiOiI1NTViOWFhMS0wNjMwLTQ1ZDEtYWIxOS01ZTZhNjViMmZkYTUiLCJwdWJsaWNfZXhwaXJlc19lbSI6IjE1Nzk1MDg1NzcwNzciLCJ1c2VyQ29tcGFueUpzb24iOiJ7XCJjb21wYW55SWRcIjozOSxcIm1lbWJlcklkXCI6MTY2LFwiZW5hYmxlZE1lbWJlclwiOnRydWUsXCJhZG1pbmlzdHJhdG9yXCI6dHJ1ZSxcImVuYWJsZWRDb21wYW55XCI6dHJ1ZSxcImNvbnRyYWN0U2lnbmVkXCI6dHJ1ZX0iLCJhdXRoMElkIjoiZ29vZ2xlLW9hdXRoMnwxMTA0MzgzNzE5MzY1ODAyOTU4OTYiLCJwcm9maWxlSWQiOiI5MyIsInNjb3BlIjoiZmx5bWVhcGlkZXYiLCJkYklkIjoiOTMiLCJleHAiOjE1ODIwMTQxNzcsImlhdCI6MTU3OTQyMjE3NiwiZW1haWwiOiJob3VnaHRvbmF3ZUBnbWFpbC5jb20ifQ.txee4ebEPIohbk-Vx35_ZaKVuIvW68AZSilkYQOgW6Q",
     "content-type": "application/json"
 }
 
@@ -163,34 +164,11 @@ fragment Airport on AirportSuggestion {
     iataCode
     title
     selectedText
-    location {
-      ...Locations
-    }
-  }
-  location {
-    ...Locations
-    coordinates {
-      points {
-        lat
-        lon
-      }
-    }
-  }
-}
-
-fragment Locations on Location {
-  city: ltv(types: [CITY]) {
-    name
-  }
-  country: ltv(types: [COUNTRY]) {
-    code
-    name
-  }
-  state: ltv(types: [STATE]) {
-    code
   }
 }
 """
+
+
 
 variables = {
     "fromCode": "FRA",
@@ -199,13 +177,92 @@ variables = {
     "endDate": "2020-02-05",
     "roundTrip": False
 }
-
 variables = {
     "query": "FRA"
 }
+variables = {
+    "fromCode": "FRA",
+    "toCode": "FCO",
+    "startDate": (datetime.datetime.now() + datetime.timedelta(days = 1)).strftime("%Y-%m-%d"),
+    "endDate": (datetime.datetime.now() + datetime.timedelta(days = 9)).strftime("%Y-%m-%d"),
+    "roundTrip": True
+}
 
-s = requests.post("https://dev.fly.me/api/graphql", json = {'query': airport_query, 'variables': variables} , headers = headers)
+#{'query': airport_query, 'variables': {"query": search}}
 
+flight_query = """
+query name($roundTrip: Boolean!, $fromCode: String!, $toCode: String!, $startDate: LocalDate!, $endDate: LocalDate!){
+  simpleAirSearch(input: {
+    stops: [
+      { portCode: $fromCode, earliestDate: $startDate }
+      { portCode: $toCode, earliestDate: $endDate }
+    ]
+    returnsToOrigin: $roundTrip
+  }) {
+    select {
+      products {
+        edges {
+          node {
+            fareInfo { totalPrice, currency }
+            ods {
+                originDisplayTime
+                formattedOriginTime(pattern: "MMMM dd, yyyy")
+            }
+          }
+        }
+      }
+    }
+  }
+}
+"""
+
+fromCode = "FRA"
+toCode = "FCO"
+roundTrip = False
+tripLength = 3 # in days
+
+session = requests.session()
+
+flightDataSet = {}
+numTrips = 0
+for i in range(0, 30):
+    originDate = (datetime.datetime.now() + datetime.timedelta(days = i)).strftime("%Y-%m-%d")
+    print(originDate)
+    endDate = (datetime.datetime.now() + datetime.timedelta(days = tripLength + i)).strftime("%Y-%m-%d")
+    variables = {
+        "fromCode": fromCode,
+        "toCode": toCode,
+        "startDate": originDate,
+        "endDate": endDate,
+        "roundTrip": roundTrip
+    }
+    s = requests.post("https://dev.fly.me/api/graphql", json = {'query': flight_query, 'variables': variables}, headers = headers)
+    print(s.status_code)
+    if s.status_code == 200:
+        #try:
+        data = json.loads(s.text)
+        data = data['data']['simpleAirSearch']['select']['products']['edges']
+        flightDataSet[originDate] = []
+        for sec in data:
+            flightDataSet[originDate].append({
+                "totalPrice": sec['node']['fareInfo']['totalPrice'],
+                "currency": sec['node']['fareInfo']['currency'],
+                "originDisplayTime": sec['node']['ods'][0]['originDisplayTime'],
+                "formattedOriginTime": sec['node']['ods'][0]['formattedOriginTime']
+            })
+            numTrips += 1
+        #except:
+        #    print('error')
+    else:
+        print('failed')
+
+print(json.dumps(flightDataSet, indent = 4))
+print(f"Loaded {numTrips} flights.")
+
+"""
 print(s.status_code)
 data = json.loads(s.text)
 print(json.dumps(data, indent = 4))
+flights = data['data']['simpleAirSearch']['select']['products']['edges']
+print("Number of flights:", len(flights))
+"""
