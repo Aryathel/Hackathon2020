@@ -1,20 +1,9 @@
+use crate::BEARER_AUTH;
 use reqwest::Client;
 use serde::Serialize;
-use std::str::from_utf8;
-use surf::post;
 use wasm_bindgen::prelude::*;
 
-const BEARER_AUTH: &'static str =
-    "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJjb21wYW55LWFkbWluIiwidHJhdmVsX3VzZX\
-    IiXSwiaXNzIjoibWUuZmx5IiwiZGVmYXVsdFRyYXZlbGVyUGVyc29uSWQiOiIxMTIiLCJ1c2VySWQiOiI1NTViOWFhMS0wN\
-    jMwLTQ1ZDEtYWIxOS01ZTZhNjViMmZkYTUiLCJwdWJsaWNfZXhwaXJlc19lbSI6IjE1Nzk1MDg1NzcwNzciLCJ1c2VyQ29t\
-    cGFueUpzb24iOiJ7XCJjb21wYW55SWRcIjozOSxcIm1lbWJlcklkXCI6MTY2LFwiZW5hYmxlZE1lbWJlclwiOnRydWUsXCJ\
-    hZG1pbmlzdHJhdG9yXCI6dHJ1ZSxcImVuYWJsZWRDb21wYW55XCI6dHJ1ZSxcImNvbnRyYWN0U2lnbmVkXCI6dHJ1ZX0iLC\
-    JhdXRoMElkIjoiZ29vZ2xlLW9hdXRoMnwxMTA0MzgzNzE5MzY1ODAyOTU4OTYiLCJwcm9maWxlSWQiOiI5MyIsInNjb3BlI\
-    joiZmx5bWVhcGlkZXYiLCJkYklkIjoiOTMiLCJleHAiOjE1ODIwMTQxNzcsImlhdCI6MTU3OTQyMjE3NiwiZW1haWwiOiJo\
-    b3VnaHRvbmF3ZUBnbWFpbC5jb20ifQ.txee4ebEPIohbk-Vx35_ZaKVuIvW68AZSilkYQOgW6Q";
-
-const AIRPORT_QUERY: &'static str = "
+const FLIGHT_QUERY: &'static str = "
 query name($roundTrip: Boolean!, $fromCode: String!, $toCode: String!, $fromDate: LocalDate!, $toDate: LocalDate!) {
   simpleAirSearch(input: {
     stops: [
@@ -144,51 +133,84 @@ extern "C" {
 }
 
 #[derive(Serialize)]
-struct ApQueryVariables<'a> {
-    fromCode: &'a str,
-    toCode: &'a str,
-    fromDate: &'a str,
-    toDate: &'a str,
-    roundTrip: &'a bool
+struct FlightQueryVariables<'a> {
+    ap_from: &'a str,
+    ap_to: &'a str,
+    depart_date: &'a str,
+    return_date: Option<&'a str>,
+    round_trip: bool,
+}
+
+impl<'a> FlightQueryVariables<'a> {
+    fn new(
+        ap_from: &'a str,
+        ap_to: &'a str,
+        depart_date: &'a str,
+        return_date: Option<&'a str>,
+        round_trip: bool,
+    ) -> Self {
+        FlightQueryVariables {
+            ap_from,
+            ap_to,
+            depart_date,
+            return_date,
+            round_trip,
+        }
+    }
 }
 
 #[derive(Serialize)]
-pub struct ApQuery<'a> {
+pub struct FlightQuery<'a> {
     query: &'static str,
-    variables: ApQueryVariables<'a>,
+    variables: FlightQueryVariables<'a>,
 }
 
-impl<'a> ApQuery<'a> {
-    pub fn new(fromCode: &'a str, toCode: &'a str, fromDate: &'a str, toDate: &'a str, roundTrip: &'a bool) -> Self {
-        ApQuery {
-            query: AIRPORT_QUERY,
-            variables: ApQueryVariables { fromCode: fromCode, toCode: toCode, fromDate: fromDate, toDate: toDate, roundTrip: roundTrip },
+impl<'a> FlightQuery<'a> {
+    pub fn new(
+        ap_from: &'a str,
+        ap_to: &'a str,
+        depart_date: &'a str,
+        return_date: Option<&'a str>,
+        round_trip: bool,
+    ) -> Self {
+        FlightQuery {
+            query: FLIGHT_QUERY,
+            variables: FlightQueryVariables::new(
+                ap_from,
+                ap_to,
+                depart_date,
+                return_date,
+                round_trip,
+            ),
         }
     }
 }
 
 #[wasm_bindgen]
-pub async fn query_current_search(fromCode: String, toCode: String, fromDate: String, toDate: String, roundTrip: Boolean) -> String {
+pub async fn flight_query(
+    ap_from: String,
+    ap_to: String,
+    depart_date: String,
+    return_date: Option<String>,
+    round_trip: bool,
+) -> String {
     console_error_panic_hook::set_once();
-    let mut request = post("http://localhost:3000/api/graphql")
-        .set_header("authorization", BEARER_AUTH)
-        .body_json(&ApQuery::new(&fromCode, &toCode, &fromDate, &toDate, &roundTrip))
-        .unwrap();
-    /*let client = Client::new();
-    let request = client.post("/api/graphql")
-        .bearer_auth(BEARER_AUTH)
-        .json(&ApQuery::new(&search))
-        .build()
-        .unwrap();*/
-    let response = match request.recv_string().await {
-        Ok(response) => response,
-        Err(e) => return format!("Error: {:?}", e),
-    };
-    /*let response = match Client::new()
+    let response = match Client::new()
         .post("http://localhost:3000/api/graphql")
         .header("authorization", BEARER_AUTH)
         .header("content-type", "application/json")
-        .body(serde_json::to_string(&ApQuery::new(&search)).unwrap())
+        .body(
+            serde_json::to_string(&FlightQuery::new(
+                &ap_from,
+                &ap_to,
+                &depart_date,
+                return_date
+                    .as_ref()
+                    .map_or_else(|| None, |s| Some(s.as_str())),
+                round_trip,
+            ))
+            .unwrap(),
+        )
         .send()
         .await
     {
@@ -197,14 +219,6 @@ pub async fn query_current_search(fromCode: String, toCode: String, fromDate: St
             Err(e) => format!("Error: {}", e),
         },
         Err(e) => format!("Error: {}", e),
-    };*/
+    };
     response
 }
-
-/*struct FlightSearch<'a> {
-    ap_from: &'a str,
-    ap_to: &'a str,
-    depart_date: &'a str,
-    return_date: Option<&'a str>,
-    round_trip: bool,
-}*/
