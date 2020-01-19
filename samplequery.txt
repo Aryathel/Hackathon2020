@@ -1,0 +1,3 @@
+airports=FRA,CFO;dates=2020-01-20,2020-01-28;roundtrip=true
+
+Par
