@@ -1,58 +1,46 @@
-use futures::executor::block_on;
+use reqwest::Client;
 use serde::Serialize;
 use std::str::from_utf8;
+use surf::post;
 use wasm_bindgen::prelude::*;
 
-/*const BEARER_AUTH: &'static str =
-    "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6W10sImlzcyI6Im1\
-lLmZseSIsImRlZmF1bHRUcmF2ZWxlclBlcnNvbklkIjoiMTEyIiwidXNlcklkIjoiNTU1YjlhYTEtMDYzMC00NWQxLWFiMTktNW\
-U2YTY1YjJmZGE1IiwicHVibGljX2V4cGlyZXNfZW0iOiIxNTc5NDA3NDk2NjczIiwidXNlckNvbXBhbnlKc29uIjoie1wiY29tc\
-GFueUlkXCI6MzksXCJtZW1iZXJJZFwiOjE2NixcImVuYWJsZWRNZW1iZXJcIjp0cnVlLFwiYWRtaW5pc3RyYXRvclwiOmZhbHNl\
-LFwiZW5hYmxlZENvbXBhbnlcIjp0cnVlLFwiY29udHJhY3RTaWduZWRcIjp0cnVlfSIsImF1dGgwSWQiOiJnb29nbGUtb2F1dGg\
-yfDExMDQzODM3MTkzNjU4MDI5NTg5NiIsInByb2ZpbGVJZCI6IjkzIiwic2NvcGUiOiJmbHltZWFwaWRldiIsImRiSWQiOiI5My\
-IsImV4cCI6MTU4MTkxMzA5NiwiaWF0IjoxNTc5MzIxMDk2LCJlbWFpbCI6ImhvdWdodG9uYXdlQGdtYWlsLmNvbSJ9.6AQD77zz\
-DSf9E3FD_f6gjcMRskCo_0XueGkNw9QRwXM";
+const BEARER_AUTH: &'static str =
+    "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJjb21wYW55LWFkbWluIiwidHJhdmVsX3VzZX\
+    IiXSwiaXNzIjoibWUuZmx5IiwiZGVmYXVsdFRyYXZlbGVyUGVyc29uSWQiOiIxMTIiLCJ1c2VySWQiOiI1NTViOWFhMS0wN\
+    jMwLTQ1ZDEtYWIxOS01ZTZhNjViMmZkYTUiLCJwdWJsaWNfZXhwaXJlc19lbSI6IjE1Nzk1MDg1NzcwNzciLCJ1c2VyQ29t\
+    cGFueUpzb24iOiJ7XCJjb21wYW55SWRcIjozOSxcIm1lbWJlcklkXCI6MTY2LFwiZW5hYmxlZE1lbWJlclwiOnRydWUsXCJ\
+    hZG1pbmlzdHJhdG9yXCI6dHJ1ZSxcImVuYWJsZWRDb21wYW55XCI6dHJ1ZSxcImNvbnRyYWN0U2lnbmVkXCI6dHJ1ZX0iLC\
+    JhdXRoMElkIjoiZ29vZ2xlLW9hdXRoMnwxMTA0MzgzNzE5MzY1ODAyOTU4OTYiLCJwcm9maWxlSWQiOiI5MyIsInNjb3BlI\
+    joiZmx5bWVhcGlkZXYiLCJkYklkIjoiOTMiLCJleHAiOjE1ODIwMTQxNzcsImlhdCI6MTU3OTQyMjE3NiwiZW1haWwiOiJo\
+    b3VnaHRvbmF3ZUBnbWFpbC5jb20ifQ.txee4ebEPIohbk-Vx35_ZaKVuIvW68AZSilkYQOgW6Q";
 
-const AIRPORT_QUERY: &'static str = "\
-query findAirports($query: String!) {\n\
-  airports(query: $query) {\n\
-    edges {\n\
-      node {\n\
-        ...Airport\n\
-      }\n\
-    }\n\
-  }\n\
-}\n\
-\n\
-fragment Airport on AirportSuggestion {\n\
-  iataCode\n\
-  title\n\
-  selectedText\n\
-  subSuggestions {\n\
-    iataCode\n\
-    title\n\
-    selectedText\n\
-  }\n\
-}\
-";
-
-#[cfg(target_arch="wasm32")]
-mod wasm {
-    use wasm_bindgen::prelude::*;
-
-    #[wasm_bindgen]
-    extern "C" {
-        #[wasm_bindgen(js_namespace = console)]
-        pub fn log(s: &str);
+const AIRPORT_QUERY: &'static str = "
+query findAirports($query: String!) {
+  airports(query: $query) {
+    edges {
+      node {
+        ...Airport
+      }
     }
+  }
 }
 
-#[cfg(target_arch="wasm32")]
-use crate::wasm::log;
+fragment Airport on AirportSuggestion {
+  iataCode
+  title
+  selectedText
+  subSuggestions {
+    iataCode
+    title
+    selectedText
+  }
+}
+";
 
-#[cfg(not(target_arch="wasm32"))]
-fn log(s: &str) {
-    println!("{}", s);
+#[wasm_bindgen]
+extern "C" {
+    #[wasm_bindgen(js_namespace = console)]
+    pub fn log(s: &str);
 }
 
 #[derive(Serialize)]
@@ -61,13 +49,13 @@ struct ApQueryVariables<'a> {
 }
 
 #[derive(Serialize)]
-struct ApQuery<'a> {
+pub struct ApQuery<'a> {
     query: &'static str,
     variables: ApQueryVariables<'a>,
 }
 
 impl<'a> ApQuery<'a> {
-    fn new(search: &'a str) -> Self {
+    pub fn new(search: &'a str) -> Self {
         ApQuery {
             query: AIRPORT_QUERY,
             variables: ApQueryVariables { query: search },
@@ -75,34 +63,38 @@ impl<'a> ApQuery<'a> {
     }
 }
 
-#[cfg_attr(target_arch="wasm32", wasm_bindgen)]
-pub fn query_current_search(search: &str) -> String {
-    let client = reqwest::Client::new();
-    let request = client.post("https://dev.fly.me/api/graphql/")
+#[wasm_bindgen]
+pub async fn query_current_search(search: String) -> String {
+    console_error_panic_hook::set_once();
+    let mut request = post("http://localhost:3000/api/graphql")
+        .set_header("authorization", BEARER_AUTH)
+        .body_json(&ApQuery::new(&search))
+        .unwrap();
+    /*let client = Client::new();
+    let request = client.post("/api/graphql")
+        .bearer_auth(BEARER_AUTH)
+        .json(&ApQuery::new(&search))
+        .build()
+        .unwrap();*/
+    let response = match request.recv_string().await {
+        Ok(response) => response,
+        Err(e) => return format!("Error: {:?}", e),
+    };
+    /*let response = match Client::new()
+        .post("http://localhost:3000/api/graphql")
         .header("authorization", BEARER_AUTH)
         .header("content-type", "application/json")
-        .fetch_mode_no_cors()
-        .body(serde_json::to_string(&ApQuery::new(search)).unwrap())
-        .build()
-        .unwrap();
-    log(&format!("{:?}", request.headers()));
-    log(&format!("{:?}", from_utf8(request.body().unwrap().as_bytes().unwrap_or_else(|| &[]))));
-    block_on(
-        match block_on(
-            reqwest::Client::new()
-                .post("https://dev.fly.me/api/graphql/")
-                .header("authorization", BEARER_AUTH)
-                .header("content-type", "application/json")
-                .fetch_mode_no_cors()
-                .body(serde_json::to_string(&ApQuery::new(search)).unwrap())
-                .send(),
-        ) {
+        .body(serde_json::to_string(&ApQuery::new(&search)).unwrap())
+        .send()
+        .await
+    {
+        Ok(response) => match response.text().await {
             Ok(response) => response,
-            Err(_) => return "Error: timed out.".to_string(),
-        }
-        .text()
-    )
-    .unwrap_or_else(|_| "Error: failed to get response text.".to_string())
+            Err(e) => format!("Error: {}", e),
+        },
+        Err(e) => format!("Error: {}", e),
+    };*/
+    response
 }
 
 /*struct FlightSearch<'a> {
@@ -112,22 +104,4 @@ pub fn query_current_search(search: &str) -> String {
     return_date: Option<&'a str>,
     round_trip: bool,
 }*/
-*/
 
-#[wasm_bindgen(inline_js = "
-    export function my_fetch(auth, body) {
-        var headers = new Headers();
-        headers.append(\"authorization\", auth);
-        headers.append(\"content-type\", \"application/json\");
-
-        fetch(new Request(\"https://dev.fly.me/api/graphql/\", {
-            method: \"POST\",
-            headers: headers,
-            mode: \"no-cors\",
-            body: body
-        })).then(console.log).catch(console.error);
-    }
-")]
-extern "C" {
-    fn my_fetch(auth: &str, body: &str);
-}
