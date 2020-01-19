@@ -1,8 +1,9 @@
 0000...............0use futures::executor::block_on;
 use serde::Serialize;
+use std::str::from_utf8;
 use wasm_bindgen::prelude::*;
 
-const BEARER_AUTH: &'static str =
+/*const BEARER_AUTH: &'static str =
     "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6W10sImlzcyI6Im1\
 lLmZseSIsImRlZmF1bHRUcmF2ZWxlclBlcnNvbklkIjoiMTEyIiwidXNlcklkIjoiNTU1YjlhYTEtMDYzMC00NWQxLWFiMTktNW\
 U2YTY1YjJmZGE1IiwicHVibGljX2V4cGlyZXNfZW0iOiIxNTc5NDA3NDk2NjczIiwidXNlckNvbXBhbnlKc29uIjoie1wiY29tc\
@@ -35,6 +36,25 @@ fragment Airport on AirportSuggestion {\n\
 }\
 ";
 
+#[cfg(target_arch="wasm32")]
+mod wasm {
+    use wasm_bindgen::prelude::*;
+
+    #[wasm_bindgen]
+    extern "C" {
+        #[wasm_bindgen(js_namespace = console)]
+        pub fn log(s: &str);
+    }
+}
+
+#[cfg(target_arch="wasm32")]
+use crate::wasm::log;
+
+#[cfg(not(target_arch="wasm32"))]
+fn log(s: &str) {
+    println!("{}", s);
+}
+
 #[derive(Serialize)]
 struct ApQueryVariables<'a> {
     query: &'a str,
@@ -55,14 +75,25 @@ impl<'a> ApQuery<'a> {
     }
 }
 
-#[wasm_bindgen]
+#[cfg_attr(target_arch="wasm32", wasm_bindgen)]
 pub fn query_current_search(search: &str) -> String {
+    let client = reqwest::Client::new();
+    let request = client.post("https://dev.fly.me/api/graphql/")
+        .header("authorization", BEARER_AUTH)
+        .header("content-type", "application/json")
+        .fetch_mode_no_cors()
+        .body(serde_json::to_string(&ApQuery::new(search)).unwrap())
+        .build()
+        .unwrap();
+    log(&format!("{:?}", request.headers()));
+    log(&format!("{:?}", from_utf8(request.body().unwrap().as_bytes().unwrap_or_else(|| &[]))));
     block_on(
         match block_on(
             reqwest::Client::new()
-                .post("https://dev.fly.me/api/graphql")
+                .post("https://dev.fly.me/api/graphql/")
                 .header("authorization", BEARER_AUTH)
                 .header("content-type", "application/json")
+                .fetch_mode_no_cors()
                 .body(serde_json::to_string(&ApQuery::new(search)).unwrap())
                 .send(),
         ) {
@@ -81,3 +112,22 @@ pub fn query_current_search(search: &str) -> String {
     return_date: Option<&'a str>,
     round_trip: bool,
 }*/
+*/
+
+#[wasm_bindgen(inline_js = "
+    export function my_fetch(auth, body) {
+        var headers = new Headers();
+        headers.append(\"authorization\", auth);
+        headers.append(\"content-type\", \"application/json\");
+
+        fetch(new Request(\"https://dev.fly.me/api/graphql/\", {
+            method: \"POST\",
+            headers: headers,
+            mode: \"no-cors\",
+            body: body
+        })).then(console.log).catch(console.error);
+    }
+")]
+extern "C" {
+    fn my_fetch(auth: &str, body: &str);
+}
